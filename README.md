@@ -1,2 +1,2 @@
 # Toxic-Comment-Classification
- CNN / LSTM / BERT
+ Use Python 3.10.x

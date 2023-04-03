@@ -152,3 +152,9 @@ cython_debug/
 #.idea/
 trained_models/CNN.h5
 trained_models/LSTM.h5
+trained_models/BERT.h5
+json_files/bert_history.json
+json_files/cnn_history.json
+json_files/lstm_history.json
+json_files/training_time.json
+log.txt

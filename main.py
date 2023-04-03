@@ -36,7 +36,7 @@ def set_gpu_device():
     if physical_devices:
         print(clr("\n  > Found GPU"))
         try:
-            tf.config.set_logical_device_configuration(physical_devices[0])#, [tf.config.LogicalDeviceConfiguration(memory_limit=int(psutil.virtual_memory()[1]/1024000))])
+            tf.config.set_logical_device_configuration(physical_devices[0]) #, [tf.config.LogicalDeviceConfiguration(memory_limit=int(psutil.virtual_memory()[1]/1024000))])
             print(clr("\n  > Enabled GPU"))
         except: print(clr(err(sys.exc_info()), 2))
 
@@ -99,8 +99,7 @@ def create_embedding_layer():
     
     # Load GloVe embeddings
     embeddings_index = {}
-    with open('glove.840B.300d.txt', encoding='utf8', errors='ignore') as f: # glove.6B.300d.txt
-    #with open('glove.840B.300d.txt', 'rb').read().decode('utf-8').splitlines() as f:
+    with open('glove.840B.300d.txt', encoding='utf8', errors='ignore') as f:
         for line in f:
             values = line.split(' ')
             word = values[0]
@@ -124,10 +123,9 @@ def create_embedding_layer():
     return embedding_matrix, embedding_dims
 
 # Define and compile models
+
 def build_lstm_model():
 
-    #model = Sequential()
-    #model.add(Embedding(MAX_FEATURES + 1, 32))
     embedding_matrix, embedding_dims = create_embedding_layer()
     print(clr(f"\n  > Building {model_type} Model..."))
     model = Sequential()
@@ -145,12 +143,9 @@ def build_lstm_model():
 
 def build_cnn_model():
 
-    #EMBEDDING_DIM = 32
     FILTERS = 250
     KERNEL_SIZE = 3
     HIDDEN_DIMS = 250
-    #model = Sequential()
-    #model.add(Embedding(MAX_FEATURES + 1, EMBEDDING_DIM))
     embedding_matrix, embedding_dims = create_embedding_layer()
     print(clr(f"\n  > Building {model_type} Model..."))
     model = Sequential()
@@ -219,6 +214,7 @@ def score_comment(comment):
     vectorized_comment = vectorizer([comment])
     print(f"\n{comment}")
     results = model.predict(vectorized_comment)
+    print(results)
     text = ''
     for idx, col in enumerate(df.columns[2:]):
         text += '{}: {}\n'.format(col, results[0][idx] > 0.5)
@@ -238,7 +234,7 @@ def run_interface():
     return gradio_interface
 
 def save_plot():
-    plt.figure() # figsize=(8,5)
+    plt.figure()
     pd.DataFrame(_history).plot()
     counter = 1
     while True:
@@ -251,7 +247,7 @@ if __name__ == '__main__':
 
     cls()
     TRAINING_MODE = False
-    SAVE_PLOT = True
+    SAVE_PLOT = False
     metrics = [Precision(name='precision'), Recall(name='recall'), BinaryAccuracy(name='accuracy')] # CategoricalAccuracy(name='accuracy')
     optimizer = Adam(learning_rate=3e-5) # AdamW(learning_rate=3e-5, epsilon=1e-08, weight_decay=0.01, clipnorm=1.0)
 
@@ -288,9 +284,10 @@ if __name__ == '__main__':
             #train_length = 0.1
             #val_length = 0.1
             #test_length = 0.1
-            
-        print(clr("\n  > Loading Data..."))
-        train, val, test, vectorizer, df = load_data()
+        
+        if TRAINING_MODE or not os.path.exists(f"trained_models/{model_type}.h5"):
+            print(clr("\n  > Loading Data..."))
+            train, val, test, vectorizer, df = load_data()
 
         if os.path.exists(f"trained_models/{model_type}.h5"):
             print(clr(f"\n  > Loading {model_type} Model..."))
