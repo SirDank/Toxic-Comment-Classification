@@ -284,10 +284,8 @@ if __name__ == '__main__':
             #train_length = 0.1
             #val_length = 0.1
             #test_length = 0.1
-        
-        if TRAINING_MODE or not os.path.exists(f"trained_models/{model_type}.h5"):
-            print(clr("\n  > Loading Data..."))
-            train, val, test, vectorizer, df = load_data()
+
+        train, val, test, vectorizer, df = load_data()
 
         if os.path.exists(f"trained_models/{model_type}.h5"):
             print(clr(f"\n  > Loading {model_type} Model..."))

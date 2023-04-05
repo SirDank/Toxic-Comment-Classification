@@ -158,3 +158,5 @@ json_files/cnn_history.json
 json_files/lstm_history.json
 json_files/training_time.json
 log.txt
+glove.840B.300d.rar
+glove.840B.300d.txt
