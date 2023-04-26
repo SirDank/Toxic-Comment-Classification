@@ -1,0 +1,9 @@
+psutil
+numpy
+pandas
+gradio
+tensorflow
+keras
+matplotlib
+transformers
+dankware
