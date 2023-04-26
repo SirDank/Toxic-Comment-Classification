@@ -58,6 +58,8 @@ def load_data():
 
     return train, val, test, vectorizer, df
 
+# single threaded
+
 '''def create_embedding_layer():
     
     embedding_dims = 300
@@ -83,6 +85,8 @@ def load_data():
                 embedding_matrix[index] = embedding_vector
                 
     return embedding_matrix, embedding_dims'''
+
+# multi threaded
 
 def get_embedding_vector(embeddings_index, word, index):
     embedding_vector = embeddings_index.get(word)
