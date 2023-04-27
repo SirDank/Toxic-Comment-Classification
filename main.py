@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import psutil
+import subprocess
 import numpy as np
 import pandas as pd
 import gradio as gr
@@ -28,17 +29,24 @@ for model_name in ['lstm', 'cnn', 'bert']:
     if not os.path.exists(f'json_files/{model_name}_history.json'):
         open(f'json_files/{model_name}_history.json', 'w+').write('{}')
 
+def get_gpu_memory():
+    command = "nvidia-smi --query-gpu=memory.free --format=csv"
+    memory_free_info = subprocess.check_output(command.split()).decode('ascii').split('\n')[:-1][1:]
+    memory_free_values = [int(x.split()[0]) for i, x in enumerate(memory_free_info)]
+    return memory_free_values
+
 def set_gpu_device():
 
     os.environ['CUDA_VISIBLE_DEVICES'] = '0'
     os.environ['TF_GPU_ALLOCATOR'] = 'cuda_malloc_async'
-    physical_devices = tf.config.list_physical_devices('GPU')
-    if physical_devices:
-        print(clr("\n  > Found GPU"))
-        try:
-            tf.config.set_logical_device_configuration(physical_devices[0]) #, [tf.config.LogicalDeviceConfiguration(memory_limit=int(psutil.virtual_memory()[1]/1024000))])
-            print(clr("\n  > Enabled GPU"))
-        except: print(clr(err(sys.exc_info()), 2))
+    #physical_devices = tf.config.list_physical_devices('GPU')
+    #if physical_devices:
+        #print(clr("\n  > Found GPU"))
+    try:
+        tf.config.set_logical_device_configuration(tf.config.list_physical_devices('GPU')[0], [tf.config.LogicalDeviceConfiguration(memory_limit=get_gpu_memory()[0])])
+        print(clr("\n  > Enabled GPU"))
+    except IndexError: pass
+    except: print(clr(err(sys.exc_info()), 2))
 
 def load_data():
 
