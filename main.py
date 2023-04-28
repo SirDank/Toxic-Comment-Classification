@@ -43,10 +43,13 @@ def set_gpu_device():
     #if physical_devices:
         #print(clr("\n  > Found GPU"))
     try:
-        tf.config.set_logical_device_configuration(tf.config.list_physical_devices('GPU')[0], [tf.config.LogicalDeviceConfiguration(memory_limit=get_gpu_memory()[0])])
+        tf.config.set_logical_device_configuration(tf.config.list_physical_devices('GPU')[0], [tf.config.LogicalDeviceConfiguration(memory_limit=get_gpu_memory()[0]-1000)])
         print(clr("\n  > Enabled GPU"))
+        tf.keras.mixed_precision.set_global_policy('mixed_float16')
     except IndexError: pass
     except: print(clr(err(sys.exc_info()), 2))
+    
+set_gpu_device()
 
 def load_data():
 
@@ -262,10 +265,9 @@ if __name__ == '__main__':
     SAVE_PLOT = False
     metrics = [Precision(name='precision'), Recall(name='recall'), BinaryAccuracy(name='accuracy')] # CategoricalAccuracy(name='accuracy')
     optimizer = Adam(learning_rate=3e-5) # AdamW(learning_rate=3e-5, epsilon=1e-08, weight_decay=0.01, clipnorm=1.0)
-
-    set_gpu_device()
     
-    #for model_type, epochs in zip(['CNN', 'LSTM', 'BERT'], [1,1,1]):
+    #for model_type, repeats in zip(['CNN', 'LSTM', 'BERT'], [1,1,1]):
+    #for _ in range(repeats):
     for _ in range(1):
 
         # Select model architecture
