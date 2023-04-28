@@ -43,7 +43,7 @@ def set_gpu_device():
     #if physical_devices:
         #print(clr("\n  > Found GPU"))
     try:
-        tf.config.set_logical_device_configuration(tf.config.list_physical_devices('GPU')[0], [tf.config.LogicalDeviceConfiguration(memory_limit=get_gpu_memory()[0]-1000)])
+        tf.config.set_logical_device_configuration(tf.config.list_physical_devices('GPU')[0], [tf.config.LogicalDeviceConfiguration(memory_limit=get_gpu_memory()[0])])
         print(clr("\n  > Enabled GPU"))
         tf.keras.mixed_precision.set_global_policy('mixed_float16')
     except IndexError: pass
@@ -282,10 +282,13 @@ if __name__ == '__main__':
         train_length = 0.1
         val_length = 0.1
         test_length = 0.1
+        
+        # NOTE: reduce batch size if running out of memory
+        
         if model_type in ['LSTM', 'CNN']:
             EPOCHS = 10
-            batch_size = 512 # 1024
-            MAX_FEATURES = 30521 # 200000
+            batch_size = 256 # 1024
+            MAX_FEATURES = 220000
             MAX_SEQUENCE_LENGTH = 1800
             #train_length = 0.7
             #val_length = 0.2
