@@ -49,4 +49,6 @@ with open(glove_name, "r", encoding="utf8") as file:
             glove_lines = []
             open("optimised_" + glove_name, "a+", encoding="utf8").write("".join(optimised_glove_lines))
             optimised_glove_lines = []
+            
+os.remove("words.txt")
 
