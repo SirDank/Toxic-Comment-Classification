@@ -322,7 +322,16 @@ if __name__ == '__main__':
             loss, precision, recall, accuracy = train_model()
             save_timings()
             print(clr(f"\n  > Saving {model_type} Model..."))
-            model.save(f"trained_models/{model_type}.h5") #, save_best_only=True, save_weights_only=True, mode='min')
+            
+            save_path = f"trained_models/{model_type}.h5"
+            backup_path = f"trained_models/{model_type}_backup.h5"
+            
+            if os.path.exists(save_path):
+                if os.path.exists(backup_path):
+                    os.remove(backup_path)
+                os.rename(save_path, backup_path)
+
+            model.save(save_path) #, save_best_only=True, save_weights_only=True, mode='min')
 
             to_print = '\n  > {} Model Loss: {:.2f}%'.format(model_type, loss * 100) + \
                 '\n  > {} Model Precision: {:.2f}%'.format(model_type, precision * 100) + \
