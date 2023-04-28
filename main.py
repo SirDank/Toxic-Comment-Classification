@@ -287,7 +287,7 @@ if __name__ == '__main__':
         
         if model_type in ['LSTM', 'CNN']:
             EPOCHS = 10
-            batch_size = 256 # 1024
+            batch_size = 128 # 1024
             MAX_FEATURES = 220000
             MAX_SEQUENCE_LENGTH = 1800
             #train_length = 0.7
