@@ -1,7 +1,5 @@
 tensorflow==2.10
-keras==2.10
 psutil
-numpy
 pandas
 gradio
 keras
