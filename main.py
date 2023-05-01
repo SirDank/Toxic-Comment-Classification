@@ -17,8 +17,9 @@ from keras.models import Sequential, Model, load_model
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from keras.metrics import Precision, Recall, CategoricalAccuracy, BinaryAccuracy
 from keras.layers import LSTM, Bidirectional, Embedding, TextVectorization, Conv1D, GlobalMaxPooling1D, MaxPooling1D, Input, Dropout, Dense, Flatten
-from dankware import clr, cls, rm_line, magenta, get_duration, err
+from dankware import clr, cls, rm_line, magenta, white, red, get_duration, err, title, align
 
+title("Toxic Comment Classification")
 try: os.chdir(os.path.dirname(__file__))
 except: pass
 if not os.path.exists('plots'): os.mkdir('plots')
@@ -114,7 +115,7 @@ def create_embedding_layer():
     
     # Load GloVe embeddings
     embeddings_index = {}
-    with open('optimised_glove.840B.300d.txt', encoding='utf8', errors='ignore') as f:
+    with open('optimised_glove.840B.300d.txt', 'r', encoding='utf8', errors='ignore') as f:
         for line in f:
             values = line.split(' ')
             word = values[0]
@@ -260,7 +261,10 @@ def save_plot():
 
 if __name__ == '__main__':
 
-    cls()
+    banner = '\n\n88888888888                d8b                .d8888b.                                      \n    888                    Y8P               d88P  Y88b                                     \n    888                                      888    888                                     \n    888   .d88b.  888  888 888  .d8888b      888         8888b.  888  888  .d88b.   .d88b.  \n    888  d88""88b `Y8bd8P\' 888 d88P"         888  88888     "88b 888  888 d88P"88b d8P  Y8b \n    888  888  888   X88K   888 888           888    888 .d888888 888  888 888  888 88888888 \n    888  Y88..88P .d8""8b. 888 Y88b.         Y88b  d88P 888  888 Y88b 888 Y88b 888 Y8b.     \n    888   "Y88P"  888  888 888  "Y8888P       "Y8888P88 "Y888888  "Y88888  "Y88888  "Y8888  \n                                                                               888          \n                                                                          Y8b d88P          \n                                                                           "Y88P"           \n'
+    cls(); print(align(clr(banner, 4)))
+    print(align(f"{white}made by {magenta}sir{white}.{magenta}dank {white}with {red}<3"))
+    
     TRAINING_MODE = False
     SAVE_PLOT = False
     metrics = [Precision(name='precision'), Recall(name='recall'), BinaryAccuracy(name='accuracy')] # CategoricalAccuracy(name='accuracy')
@@ -277,7 +281,7 @@ if __name__ == '__main__':
                 model_type = input(clr("  > Enter Model Architecture [ LSTM / CNN / BERT ]: ") + magenta).upper()
             if model_type in ['LSTM', 'CNN', 'BERT']: break
             else: rm_line()
-        
+
         DROPOUT_RATE = 0.2
         train_length = 0.1
         val_length = 0.1
