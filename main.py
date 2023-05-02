@@ -337,7 +337,10 @@ if __name__ == '__main__':
 
             while True:
                 try: model.save(save_path); break #, save_best_only=True, save_weights_only=True, mode='min')
-                except: print(clr("Failed to save! Retrying...",2))
+                except: 
+                    try: os.remove(save_path)
+                    except: pass
+                    print(clr("Failed to save! Retrying...",2))
 
             to_print = '\n  > {} Model Loss: {:.2f}%'.format(model_type, loss * 100) + \
                 '\n  > {} Model Precision: {:.2f}%'.format(model_type, precision * 100) + \
