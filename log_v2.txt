@@ -1,0 +1,670 @@
+
+
+Total Training Time: 6 minutes, 30 seconds
+
+  > CNN Model Loss: 14.82%
+  > CNN Model Precision: 0.00%
+  > CNN Model Recall: 0.00%
+  > CNN Model Accuracy: 96.37%
+
+Total Training Time: 18 minutes, 34 seconds
+
+  > CNN Model Loss: 11.07%
+  > CNN Model Precision: 83.55%
+  > CNN Model Recall: 12.41%
+  > CNN Model Accuracy: 96.63%
+
+Total Training Time: 30 minutes, 39 seconds
+
+  > CNN Model Loss: 8.74%
+  > CNN Model Precision: 81.09%
+  > CNN Model Recall: 36.13%
+  > CNN Model Accuracy: 97.25%
+
+Total Training Time: 42 minutes, 45 seconds
+
+  > CNN Model Loss: 7.73%
+  > CNN Model Precision: 79.10%
+  > CNN Model Recall: 45.56%
+  > CNN Model Accuracy: 97.59%
+
+Total Training Time: 54 minutes, 50 seconds
+
+  > CNN Model Loss: 7.40%
+  > CNN Model Precision: 83.97%
+  > CNN Model Recall: 44.43%
+  > CNN Model Accuracy: 97.62%
+
+Total Training Time: 1 hour, 6 minutes, 54 seconds
+
+  > CNN Model Loss: 6.71%
+  > CNN Model Precision: 83.45%
+  > CNN Model Recall: 50.23%
+  > CNN Model Accuracy: 97.86%
+
+Total Training Time: 1 hour, 18 minutes, 58 seconds
+
+  > CNN Model Loss: 6.56%
+  > CNN Model Precision: 84.14%
+  > CNN Model Recall: 52.41%
+  > CNN Model Accuracy: 97.83%
+
+Total Training Time: 1 hour, 31 minutes, 3 seconds
+
+  > CNN Model Loss: 6.11%
+  > CNN Model Precision: 83.15%
+  > CNN Model Recall: 57.51%
+  > CNN Model Accuracy: 98.01%
+
+Total Training Time: 1 hour, 43 minutes, 7 seconds
+
+  > CNN Model Loss: 6.09%
+  > CNN Model Precision: 84.69%
+  > CNN Model Recall: 55.70%
+  > CNN Model Accuracy: 97.95%
+
+Total Training Time: 1 hour, 55 minutes, 11 seconds
+
+  > CNN Model Loss: 5.76%
+  > CNN Model Precision: 81.16%
+  > CNN Model Recall: 58.70%
+  > CNN Model Accuracy: 98.03%
+
+Total Training Time: 2 hours, 7 minutes, 17 seconds
+
+  > CNN Model Loss: 5.56%
+  > CNN Model Precision: 83.71%
+  > CNN Model Recall: 60.98%
+  > CNN Model Accuracy: 98.13%
+
+Total Training Time: 2 hours, 19 minutes, 22 seconds
+
+  > CNN Model Loss: 5.40%
+  > CNN Model Precision: 81.90%
+  > CNN Model Recall: 63.65%
+  > CNN Model Accuracy: 98.14%
+
+Total Training Time: 2 hours, 31 minutes, 27 seconds
+
+  > CNN Model Loss: 5.10%
+  > CNN Model Precision: 85.07%
+  > CNN Model Recall: 62.21%
+  > CNN Model Accuracy: 98.23%
+
+Total Training Time: 2 hours, 43 minutes, 32 seconds
+
+  > CNN Model Loss: 5.00%
+  > CNN Model Precision: 84.05%
+  > CNN Model Recall: 63.12%
+  > CNN Model Accuracy: 98.27%
+
+Total Training Time: 2 hours, 55 minutes, 37 seconds
+
+  > CNN Model Loss: 4.81%
+  > CNN Model Precision: 85.04%
+  > CNN Model Recall: 64.01%
+  > CNN Model Accuracy: 98.29%
+
+Total Training Time: 3 hours, 7 minutes, 42 seconds
+
+  > CNN Model Loss: 4.76%
+  > CNN Model Precision: 86.54%
+  > CNN Model Recall: 63.85%
+  > CNN Model Accuracy: 98.27%
+
+Total Training Time: 3 hours, 19 minutes, 47 seconds
+
+  > CNN Model Loss: 4.42%
+  > CNN Model Precision: 84.24%
+  > CNN Model Recall: 67.43%
+  > CNN Model Accuracy: 98.41%
+
+Total Training Time: 3 hours, 31 minutes, 54 seconds
+
+  > CNN Model Loss: 4.57%
+  > CNN Model Precision: 83.59%
+  > CNN Model Recall: 68.28%
+  > CNN Model Accuracy: 98.32%
+
+Total Training Time: 3 hours, 43 minutes, 56 seconds
+
+  > CNN Model Loss: 4.37%
+  > CNN Model Precision: 86.84%
+  > CNN Model Recall: 67.75%
+  > CNN Model Accuracy: 98.41%
+
+Total Training Time: 3 hours, 55 minutes, 57 seconds
+
+  > CNN Model Loss: 4.41%
+  > CNN Model Precision: 84.92%
+  > CNN Model Recall: 68.93%
+  > CNN Model Accuracy: 98.38%
+
+Total Training Time: 4 hours, 7 minutes, 57 seconds
+
+  > CNN Model Loss: 4.31%
+  > CNN Model Precision: 87.27%
+  > CNN Model Recall: 68.24%
+  > CNN Model Accuracy: 98.42%
+
+Total Training Time: 4 hours, 19 minutes, 57 seconds
+
+  > CNN Model Loss: 4.06%
+  > CNN Model Precision: 86.77%
+  > CNN Model Recall: 68.06%
+  > CNN Model Accuracy: 98.49%
+
+Total Training Time: 4 hours, 31 minutes, 57 seconds
+
+  > CNN Model Loss: 4.01%
+  > CNN Model Precision: 84.42%
+  > CNN Model Recall: 74.41%
+  > CNN Model Accuracy: 98.56%
+
+Total Training Time: 4 hours, 43 minutes, 56 seconds
+
+  > CNN Model Loss: 3.95%
+  > CNN Model Precision: 87.78%
+  > CNN Model Recall: 69.68%
+  > CNN Model Accuracy: 98.49%
+
+Total Training Time: 4 hours, 55 minutes, 56 seconds
+
+  > CNN Model Loss: 3.96%
+  > CNN Model Precision: 86.80%
+  > CNN Model Recall: 71.99%
+  > CNN Model Accuracy: 98.52%
+
+Total Training Time: 5 hours, 7 minutes, 56 seconds
+
+  > CNN Model Loss: 3.67%
+  > CNN Model Precision: 87.34%
+  > CNN Model Recall: 73.39%
+  > CNN Model Accuracy: 98.64%
+
+Total Training Time: 5 hours, 19 minutes, 56 seconds
+
+  > CNN Model Loss: 3.66%
+  > CNN Model Precision: 88.45%
+  > CNN Model Recall: 71.20%
+  > CNN Model Accuracy: 98.62%
+
+Total Training Time: 5 hours, 31 minutes, 55 seconds
+
+  > CNN Model Loss: 3.58%
+  > CNN Model Precision: 85.33%
+  > CNN Model Recall: 76.97%
+  > CNN Model Accuracy: 98.66%
+
+Total Training Time: 5 hours, 43 minutes, 53 seconds
+
+  > CNN Model Loss: 3.63%
+  > CNN Model Precision: 90.19%
+  > CNN Model Recall: 69.77%
+  > CNN Model Accuracy: 98.60%
+
+Total Training Time: 5 hours, 55 minutes, 51 seconds
+
+  > CNN Model Loss: 3.34%
+  > CNN Model Precision: 87.28%
+  > CNN Model Recall: 76.84%
+  > CNN Model Accuracy: 98.76%
+
+Total Training Time: 6 hours, 7 minutes, 51 seconds
+
+  > CNN Model Loss: 3.44%
+  > CNN Model Precision: 86.86%
+  > CNN Model Recall: 76.69%
+  > CNN Model Accuracy: 98.71%
+
+Total Training Time: 6 hours, 19 minutes, 50 seconds
+
+  > CNN Model Loss: 3.36%
+  > CNN Model Precision: 87.32%
+  > CNN Model Recall: 78.57%
+  > CNN Model Accuracy: 98.73%
+
+Total Training Time: 6 hours, 31 minutes, 48 seconds
+
+  > CNN Model Loss: 3.06%
+  > CNN Model Precision: 88.38%
+  > CNN Model Recall: 76.99%
+  > CNN Model Accuracy: 98.83%
+
+Total Training Time: 6 hours, 43 minutes, 46 seconds
+
+  > CNN Model Loss: 3.11%
+  > CNN Model Precision: 89.30%
+  > CNN Model Recall: 77.10%
+  > CNN Model Accuracy: 98.83%
+
+Total Training Time: 6 hours, 55 minutes, 43 seconds
+
+Total Training Time: 7 hours, 7 minutes, 31 seconds
+
+  > CNN Model Loss: 3.10%
+  > CNN Model Precision: 88.42%
+  > CNN Model Recall: 79.31%
+  > CNN Model Accuracy: 98.86%
+
+Total Training Time: 7 hours, 19 minutes, 31 seconds
+
+  > CNN Model Loss: 3.02%
+  > CNN Model Precision: 90.73%
+  > CNN Model Recall: 76.71%
+  > CNN Model Accuracy: 98.81%
+
+Total Training Time: 7 hours, 31 minutes, 26 seconds
+
+  > CNN Model Loss: 3.08%
+  > CNN Model Precision: 91.17%
+  > CNN Model Recall: 74.43%
+  > CNN Model Accuracy: 98.79%
+
+Total Training Time: 7 hours, 43 minutes, 24 seconds
+
+  > CNN Model Loss: 3.07%
+  > CNN Model Precision: 89.01%
+  > CNN Model Recall: 78.80%
+  > CNN Model Accuracy: 98.81%
+
+Total Training Time: 7 hours, 55 minutes, 13 seconds
+
+  > CNN Model Loss: 2.73%
+  > CNN Model Precision: 91.15%
+  > CNN Model Recall: 80.34%
+  > CNN Model Accuracy: 98.98%
+
+Total Training Time: 8 hours, 7 minutes, 10 seconds
+
+  > CNN Model Loss: 2.68%
+  > CNN Model Precision: 88.82%
+  > CNN Model Recall: 81.77%
+  > CNN Model Accuracy: 98.96%
+
+Total Training Time: 8 hours, 19 minutes, 2 seconds
+
+  > CNN Model Loss: 2.85%
+  > CNN Model Precision: 91.48%
+  > CNN Model Recall: 77.70%
+  > CNN Model Accuracy: 98.86%
+
+Total Training Time: 8 hours, 30 minutes, 52 seconds
+
+  > CNN Model Loss: 2.66%
+  > CNN Model Precision: 90.18%
+  > CNN Model Recall: 83.34%
+  > CNN Model Accuracy: 99.04%
+
+Total Training Time: 8 hours, 42 minutes, 41 seconds
+
+  > CNN Model Loss: 2.57%
+  > CNN Model Precision: 90.88%
+  > CNN Model Recall: 82.10%
+  > CNN Model Accuracy: 99.04%
+
+Total Training Time: 8 hours, 54 minutes, 33 seconds
+
+  > CNN Model Loss: 2.52%
+  > CNN Model Precision: 91.19%
+  > CNN Model Recall: 83.37%
+  > CNN Model Accuracy: 99.07%
+
+Total Training Time: 9 hours, 6 minutes, 24 seconds
+
+  > CNN Model Loss: 2.50%
+  > CNN Model Precision: 89.34%
+  > CNN Model Recall: 84.78%
+  > CNN Model Accuracy: 99.07%
+
+Total Training Time: 9 hours, 18 minutes, 16 seconds
+
+  > CNN Model Loss: 2.48%
+  > CNN Model Precision: 91.38%
+  > CNN Model Recall: 83.32%
+  > CNN Model Accuracy: 99.09%
+
+Total Training Time: 9 hours, 30 minutes, 9 seconds
+
+  > CNN Model Loss: 2.28%
+  > CNN Model Precision: 90.10%
+  > CNN Model Recall: 86.14%
+  > CNN Model Accuracy: 99.16%
+
+Total Training Time: 9 hours, 42 minutes, 2 seconds
+
+  > CNN Model Loss: 2.44%
+  > CNN Model Precision: 90.02%
+  > CNN Model Recall: 85.42%
+  > CNN Model Accuracy: 99.13%
+
+Total Training Time: 9 hours, 53 minutes, 55 seconds
+
+  > CNN Model Loss: 2.30%
+  > CNN Model Precision: 91.14%
+  > CNN Model Recall: 84.69%
+  > CNN Model Accuracy: 99.13%
+
+Total Training Time: 10 hours, 5 minutes, 52 seconds
+
+  > CNN Model Loss: 2.41%
+  > CNN Model Precision: 91.84%
+  > CNN Model Recall: 82.03%
+  > CNN Model Accuracy: 99.07%
+
+Total Training Time: 10 hours, 17 minutes, 45 seconds
+
+  > CNN Model Loss: 2.24%
+  > CNN Model Precision: 93.34%
+  > CNN Model Recall: 81.47%
+  > CNN Model Accuracy: 99.12%
+
+Total Training Time: 10 hours, 29 minutes, 40 seconds
+
+  > CNN Model Loss: 2.11%
+  > CNN Model Precision: 90.85%
+  > CNN Model Recall: 87.32%
+  > CNN Model Accuracy: 99.22%
+
+Total Training Time: 10 hours, 41 minutes, 36 seconds
+
+  > CNN Model Loss: 2.07%
+  > CNN Model Precision: 91.49%
+  > CNN Model Recall: 88.00%
+  > CNN Model Accuracy: 99.26%
+
+Total Training Time: 10 hours, 53 minutes, 33 seconds
+
+  > CNN Model Loss: 2.07%
+  > CNN Model Precision: 93.51%
+  > CNN Model Recall: 87.24%
+  > CNN Model Accuracy: 99.27%
+
+Total Training Time: 11 hours, 5 minutes, 32 seconds
+
+  > CNN Model Loss: 1.99%
+  > CNN Model Precision: 90.71%
+  > CNN Model Recall: 90.31%
+  > CNN Model Accuracy: 99.33%
+
+Total Training Time: 11 hours, 17 minutes, 29 seconds
+
+  > CNN Model Loss: 2.06%
+  > CNN Model Precision: 92.13%
+  > CNN Model Recall: 86.01%
+  > CNN Model Accuracy: 99.20%
+
+Total Training Time: 11 hours, 29 minutes, 26 seconds
+
+  > CNN Model Loss: 2.01%
+  > CNN Model Precision: 92.17%
+  > CNN Model Recall: 87.59%
+  > CNN Model Accuracy: 99.26%
+
+Total Training Time: 11 hours, 41 minutes, 25 seconds
+
+  > CNN Model Loss: 2.00%
+  > CNN Model Precision: 91.55%
+  > CNN Model Recall: 87.85%
+  > CNN Model Accuracy: 99.23%
+
+Total Training Time: 11 hours, 53 minutes, 22 seconds
+
+  > CNN Model Loss: 1.90%
+  > CNN Model Precision: 92.31%
+  > CNN Model Recall: 89.74%
+  > CNN Model Accuracy: 99.33%
+
+Total Training Time: 12 hours, 5 minutes, 20 seconds
+
+  > CNN Model Loss: 1.86%
+  > CNN Model Precision: 93.63%
+  > CNN Model Recall: 86.50%
+  > CNN Model Accuracy: 99.32%
+
+Total Training Time: 12 hours, 17 minutes, 17 seconds
+
+  > CNN Model Loss: 1.79%
+  > CNN Model Precision: 91.93%
+  > CNN Model Recall: 90.62%
+  > CNN Model Accuracy: 99.38%
+
+Total Training Time: 12 hours, 29 minutes, 14 seconds
+
+  > CNN Model Loss: 1.79%
+  > CNN Model Precision: 93.32%
+  > CNN Model Recall: 90.28%
+  > CNN Model Accuracy: 99.40%
+
+Total Training Time: 12 hours, 41 minutes, 9 seconds
+
+Total Training Time: 12 hours, 52 minutes, 19 seconds
+
+  > CNN Model Loss: 1.76%
+  > CNN Model Precision: 92.84%
+  > CNN Model Recall: 89.38%
+  > CNN Model Accuracy: 99.34%
+
+Total Training Time: 13 hours, 3 minutes, 34 seconds
+
+  > CNN Model Loss: 1.66%
+  > CNN Model Precision: 94.85%
+  > CNN Model Recall: 88.54%
+  > CNN Model Accuracy: 99.42%
+
+Total Training Time: 13 hours, 14 minutes, 52 seconds
+
+  > CNN Model Loss: 1.59%
+  > CNN Model Precision: 95.84%
+  > CNN Model Recall: 87.06%
+  > CNN Model Accuracy: 99.41%
+
+Total Training Time: 13 hours, 26 minutes, 12 seconds
+
+  > CNN Model Loss: 1.62%
+  > CNN Model Precision: 92.64%
+  > CNN Model Recall: 91.54%
+  > CNN Model Accuracy: 99.43%
+
+Total Training Time: 13 hours, 37 minutes, 34 seconds
+
+  > CNN Model Loss: 1.53%
+  > CNN Model Precision: 94.25%
+  > CNN Model Recall: 90.09%
+  > CNN Model Accuracy: 99.45%
+
+Total Training Time: 13 hours, 48 minutes, 55 seconds
+
+  > CNN Model Loss: 1.68%
+  > CNN Model Precision: 95.65%
+  > CNN Model Recall: 86.85%
+  > CNN Model Accuracy: 99.37%
+
+Total Training Time: 14 hours, 17 seconds
+
+  > CNN Model Loss: 1.60%
+  > CNN Model Precision: 95.13%
+  > CNN Model Recall: 88.81%
+  > CNN Model Accuracy: 99.40%
+
+Total Training Time: 14 hours, 11 minutes, 39 seconds
+
+  > CNN Model Loss: 1.59%
+  > CNN Model Precision: 93.45%
+  > CNN Model Recall: 91.33%
+  > CNN Model Accuracy: 99.44%
+
+Total Training Time: 14 hours, 22 minutes, 57 seconds
+
+  > CNN Model Loss: 1.61%
+  > CNN Model Precision: 91.47%
+  > CNN Model Recall: 93.91%
+  > CNN Model Accuracy: 99.44%
+
+Total Training Time: 14 hours, 34 minutes, 13 seconds
+
+  > CNN Model Loss: 1.45%
+  > CNN Model Precision: 95.67%
+  > CNN Model Recall: 89.62%
+  > CNN Model Accuracy: 99.48%
+
+Total Training Time: 14 hours, 45 minutes, 29 seconds
+
+  > CNN Model Loss: 1.53%
+  > CNN Model Precision: 93.23%
+  > CNN Model Recall: 92.99%
+  > CNN Model Accuracy: 99.48%
+
+Total Training Time: 14 hours, 56 minutes, 45 seconds
+
+  > CNN Model Loss: 1.40%
+  > CNN Model Precision: 94.12%
+  > CNN Model Recall: 92.36%
+  > CNN Model Accuracy: 99.50%
+
+Total Training Time: 15 hours, 8 minutes, 2 seconds
+
+  > CNN Model Loss: 1.38%
+  > CNN Model Precision: 94.88%
+  > CNN Model Recall: 91.52%
+  > CNN Model Accuracy: 99.51%
+
+Total Training Time: 15 hours, 19 minutes, 19 seconds
+
+  > CNN Model Loss: 1.29%
+  > CNN Model Precision: 94.57%
+  > CNN Model Recall: 93.46%
+  > CNN Model Accuracy: 99.58%
+
+Total Training Time: 15 hours, 30 minutes, 37 seconds
+
+  > CNN Model Loss: 1.22%
+  > CNN Model Precision: 95.95%
+  > CNN Model Recall: 91.30%
+  > CNN Model Accuracy: 99.56%
+
+Total Training Time: 15 hours, 41 minutes, 54 seconds
+
+  > CNN Model Loss: 1.23%
+  > CNN Model Precision: 95.40%
+  > CNN Model Recall: 93.54%
+  > CNN Model Accuracy: 99.59%
+
+Total Training Time: 15 hours, 53 minutes, 11 seconds
+
+  > CNN Model Loss: 1.27%
+  > CNN Model Precision: 95.59%
+  > CNN Model Recall: 92.83%
+  > CNN Model Accuracy: 99.57%
+
+Total Training Time: 16 hours, 4 minutes, 30 seconds
+
+  > CNN Model Loss: 1.14%
+  > CNN Model Precision: 96.53%
+  > CNN Model Recall: 92.81%
+  > CNN Model Accuracy: 99.63%
+
+Total Training Time: 16 hours, 15 minutes, 52 seconds
+
+  > CNN Model Loss: 1.22%
+  > CNN Model Precision: 95.71%
+  > CNN Model Recall: 92.98%
+  > CNN Model Accuracy: 99.59%
+
+Total Training Time: 16 hours, 27 minutes, 11 seconds
+
+  > CNN Model Loss: 1.16%
+  > CNN Model Precision: 94.60%
+  > CNN Model Recall: 95.39%
+  > CNN Model Accuracy: 99.63%
+
+Total Training Time: 16 hours, 38 minutes, 38 seconds
+
+  > CNN Model Loss: 1.10%
+  > CNN Model Precision: 95.92%
+  > CNN Model Recall: 94.20%
+  > CNN Model Accuracy: 99.65%
+
+Total Training Time: 16 hours, 49 minutes, 57 seconds
+
+  > CNN Model Loss: 1.13%
+  > CNN Model Precision: 94.42%
+  > CNN Model Recall: 96.14%
+  > CNN Model Accuracy: 99.66%
+
+Total Training Time: 17 hours, 1 minute, 15 seconds
+
+  > CNN Model Loss: 1.09%
+  > CNN Model Precision: 96.32%
+  > CNN Model Recall: 93.70%
+  > CNN Model Accuracy: 99.62%
+
+Total Training Time: 17 hours, 12 minutes, 29 seconds
+
+  > CNN Model Loss: 1.22%
+  > CNN Model Precision: 93.75%
+  > CNN Model Recall: 96.18%
+  > CNN Model Accuracy: 99.60%
+
+Total Training Time: 17 hours, 23 minutes, 44 seconds
+
+  > CNN Model Loss: 0.99%
+  > CNN Model Precision: 96.48%
+  > CNN Model Recall: 94.98%
+  > CNN Model Accuracy: 99.68%
+
+Total Training Time: 17 hours, 34 minutes, 58 seconds
+
+  > CNN Model Loss: 0.98%
+  > CNN Model Precision: 96.62%
+  > CNN Model Recall: 94.76%
+  > CNN Model Accuracy: 99.69%
+
+Total Training Time: 17 hours, 46 minutes, 14 seconds
+
+  > CNN Model Loss: 1.05%
+  > CNN Model Precision: 94.76%
+  > CNN Model Recall: 96.12%
+  > CNN Model Accuracy: 99.66%
+
+Total Training Time: 17 hours, 57 minutes, 31 seconds
+
+  > CNN Model Loss: 1.02%
+  > CNN Model Precision: 95.27%
+  > CNN Model Recall: 96.48%
+  > CNN Model Accuracy: 99.68%
+
+Total Training Time: 18 hours, 8 minutes, 49 seconds
+
+  > CNN Model Loss: 0.90%
+  > CNN Model Precision: 96.83%
+  > CNN Model Recall: 96.36%
+  > CNN Model Accuracy: 99.75%
+
+Total Training Time: 18 hours, 20 minutes, 7 seconds
+
+  > CNN Model Loss: 0.96%
+  > CNN Model Precision: 95.16%
+  > CNN Model Recall: 96.63%
+  > CNN Model Accuracy: 99.69%
+
+Total Training Time: 18 hours, 31 minutes, 25 seconds
+
+  > CNN Model Loss: 0.86%
+  > CNN Model Precision: 96.57%
+  > CNN Model Recall: 95.90%
+  > CNN Model Accuracy: 99.73%
+
+Total Training Time: 18 hours, 42 minutes, 42 seconds
+
+  > CNN Model Loss: 0.92%
+  > CNN Model Precision: 97.37%
+  > CNN Model Recall: 95.77%
+  > CNN Model Accuracy: 99.74%
+
+Total Training Time: 18 hours, 53 minutes, 59 seconds
+
+  > CNN Model Loss: 0.91%
+  > CNN Model Precision: 96.21%
+  > CNN Model Recall: 96.47%
+  > CNN Model Accuracy: 99.72%

@@ -1,0 +1,2521 @@
+
+
+Total Training Time: 3 minutes, 44 seconds
+
+  > CNN Model Loss: 6.03%
+  > CNN Model Precision: 83.02%
+  > CNN Model Recall: 57.20%
+  > CNN Model Accuracy: 97.88%
+
+Total Training Time: 41 minutes, 45 seconds
+
+  > LSTM Model Loss: 6.53%
+  > LSTM Model Precision: 76.68%
+  > LSTM Model Recall: 54.38%
+  > LSTM Model Accuracy: 97.75%
+
+Total Training Time: 7 minutes, 8 seconds
+
+  > CNN Model Loss: 4.98%
+  > CNN Model Precision: 80.28%
+  > CNN Model Recall: 60.72%
+  > CNN Model Accuracy: 98.20%
+
+Total Training Time: 11 minutes, 37 seconds
+
+  > CNN Model Loss: 9.84%
+  > CNN Model Precision: 79.44%
+  > CNN Model Recall: 26.29%
+  > CNN Model Accuracy: 96.92%
+
+Total Training Time: 50 minutes, 11 seconds
+
+  > LSTM Model Loss: 10.11%
+  > LSTM Model Precision: 76.61%
+  > LSTM Model Recall: 18.32%
+  > LSTM Model Accuracy: 96.92%
+
+Total Training Time: 15 minutes, 56 seconds
+
+  > CNN Model Loss: 8.15%
+  > CNN Model Precision: 83.02%
+  > CNN Model Recall: 40.80%
+  > CNN Model Accuracy: 97.45%
+
+Total Training Time: 57 minutes, 8 seconds
+
+  > LSTM Model Loss: 9.35%
+  > LSTM Model Precision: 75.51%
+  > LSTM Model Recall: 27.21%
+  > LSTM Model Accuracy: 97.08%
+
+Total Training Time: 19 minutes, 18 seconds
+
+  > CNN Model Loss: 7.21%
+  > CNN Model Precision: 82.40%
+  > CNN Model Recall: 46.86%
+  > CNN Model Accuracy: 97.70%
+
+Total Training Time: 22 minutes, 8 seconds
+
+  > CNN Model Loss: 7.30%
+  > CNN Model Precision: 79.30%
+  > CNN Model Recall: 50.44%
+  > CNN Model Accuracy: 97.63%
+
+Total Training Time: 25 minutes
+
+  > CNN Model Loss: 6.61%
+  > CNN Model Precision: 83.32%
+  > CNN Model Recall: 48.82%
+  > CNN Model Accuracy: 97.84%
+
+Total Training Time: 28 minutes, 22 seconds
+
+  > CNN Model Loss: 6.66%
+  > CNN Model Precision: 87.80%
+  > CNN Model Recall: 46.26%
+  > CNN Model Accuracy: 97.83%
+
+Total Training Time: 31 minutes, 14 seconds
+
+  > CNN Model Loss: 6.51%
+  > CNN Model Precision: 87.73%
+  > CNN Model Recall: 48.54%
+  > CNN Model Accuracy: 97.85%
+
+Total Training Time: 34 minutes, 12 seconds
+
+  > CNN Model Loss: 6.04%
+  > CNN Model Precision: 81.35%
+  > CNN Model Recall: 57.13%
+  > CNN Model Accuracy: 97.98%
+
+Total Training Time: 36 minutes, 58 seconds
+
+  > CNN Model Loss: 6.10%
+  > CNN Model Precision: 78.40%
+  > CNN Model Recall: 61.60%
+  > CNN Model Accuracy: 97.98%
+
+Total Training Time: 40 minutes, 20 seconds
+
+  > CNN Model Loss: 5.58%
+  > CNN Model Precision: 82.62%
+  > CNN Model Recall: 59.66%
+  > CNN Model Accuracy: 98.13%
+
+Total Training Time: 43 minutes, 8 seconds
+
+  > CNN Model Loss: 5.54%
+  > CNN Model Precision: 81.26%
+  > CNN Model Recall: 59.30%
+  > CNN Model Accuracy: 98.12%
+
+Total Training Time: 46 minutes, 30 seconds
+
+  > CNN Model Loss: 5.25%
+  > CNN Model Precision: 82.23%
+  > CNN Model Recall: 63.89%
+  > CNN Model Accuracy: 98.18%
+
+Total Training Time: 49 minutes, 21 seconds
+
+  > CNN Model Loss: 5.41%
+  > CNN Model Precision: 82.87%
+  > CNN Model Recall: 61.77%
+  > CNN Model Accuracy: 98.16%
+
+Total Training Time: 52 minutes, 12 seconds
+
+  > CNN Model Loss: 5.35%
+  > CNN Model Precision: 87.30%
+  > CNN Model Recall: 59.70%
+  > CNN Model Accuracy: 98.16%
+
+Total Training Time: 55 minutes, 9 seconds
+
+  > CNN Model Loss: 5.01%
+  > CNN Model Precision: 82.91%
+  > CNN Model Recall: 64.59%
+  > CNN Model Accuracy: 98.27%
+
+Total Training Time: 58 minutes, 8 seconds
+
+  > CNN Model Loss: 5.20%
+  > CNN Model Precision: 88.68%
+  > CNN Model Recall: 58.97%
+  > CNN Model Accuracy: 98.24%
+
+Total Training Time: 1 hour, 1 minute, 5 seconds
+
+  > CNN Model Loss: 5.14%
+  > CNN Model Precision: 84.40%
+  > CNN Model Recall: 64.76%
+  > CNN Model Accuracy: 98.23%
+
+Total Training Time: 1 hour, 3 minutes, 58 seconds
+
+  > CNN Model Loss: 5.07%
+  > CNN Model Precision: 86.09%
+  > CNN Model Recall: 63.23%
+  > CNN Model Accuracy: 98.29%
+
+Total Training Time: 1 hour, 6 minutes, 48 seconds
+
+  > CNN Model Loss: 5.41%
+  > CNN Model Precision: 89.63%
+  > CNN Model Recall: 55.45%
+  > CNN Model Accuracy: 98.13%
+
+Total Training Time: 1 hour, 9 minutes, 43 seconds
+
+  > CNN Model Loss: 4.70%
+  > CNN Model Precision: 84.05%
+  > CNN Model Recall: 66.98%
+  > CNN Model Accuracy: 98.34%
+
+Total Training Time: 1 hour, 12 minutes, 31 seconds
+
+  > CNN Model Loss: 4.66%
+  > CNN Model Precision: 81.13%
+  > CNN Model Recall: 69.84%
+  > CNN Model Accuracy: 98.39%
+
+Total Training Time: 1 hour, 15 minutes, 19 seconds
+
+  > CNN Model Loss: 4.43%
+  > CNN Model Precision: 85.79%
+  > CNN Model Recall: 66.77%
+  > CNN Model Accuracy: 98.46%
+
+Total Training Time: 1 hour, 18 minutes, 10 seconds
+
+  > CNN Model Loss: 4.76%
+  > CNN Model Precision: 84.64%
+  > CNN Model Recall: 66.95%
+  > CNN Model Accuracy: 98.38%
+
+Total Training Time: 1 hour, 21 minutes, 32 seconds
+
+  > CNN Model Loss: 4.61%
+  > CNN Model Precision: 82.17%
+  > CNN Model Recall: 70.51%
+  > CNN Model Accuracy: 98.37%
+
+Total Training Time: 1 hour, 24 minutes, 19 seconds
+
+  > CNN Model Loss: 4.69%
+  > CNN Model Precision: 82.13%
+  > CNN Model Recall: 68.74%
+  > CNN Model Accuracy: 98.32%
+
+Total Training Time: 1 hour, 27 minutes, 13 seconds
+
+  > CNN Model Loss: 5.05%
+  > CNN Model Precision: 77.42%
+  > CNN Model Recall: 75.73%
+  > CNN Model Accuracy: 98.27%
+
+Total Training Time: 1 hour, 30 minutes, 1 second
+
+  > CNN Model Loss: 4.63%
+  > CNN Model Precision: 82.41%
+  > CNN Model Recall: 72.02%
+  > CNN Model Accuracy: 98.39%
+
+Total Training Time: 1 hour, 33 minutes, 23 seconds
+
+  > CNN Model Loss: 4.45%
+  > CNN Model Precision: 84.29%
+  > CNN Model Recall: 69.54%
+  > CNN Model Accuracy: 98.42%
+
+Total Training Time: 1 hour, 36 minutes, 9 seconds
+
+  > CNN Model Loss: 4.39%
+  > CNN Model Precision: 84.87%
+  > CNN Model Recall: 67.41%
+  > CNN Model Accuracy: 98.41%
+
+Total Training Time: 1 hour, 39 minutes, 3 seconds
+
+  > CNN Model Loss: 4.56%
+  > CNN Model Precision: 80.57%
+  > CNN Model Recall: 76.25%
+  > CNN Model Accuracy: 98.42%
+
+Total Training Time: 1 hour, 42 minutes
+
+  > CNN Model Loss: 4.34%
+  > CNN Model Precision: 81.05%
+  > CNN Model Recall: 75.92%
+  > CNN Model Accuracy: 98.50%
+
+Total Training Time: 1 hour, 45 minutes, 1 second
+
+  > CNN Model Loss: 4.41%
+  > CNN Model Precision: 82.63%
+  > CNN Model Recall: 72.89%
+  > CNN Model Accuracy: 98.43%
+
+Total Training Time: 1 hour, 48 minutes, 23 seconds
+
+  > CNN Model Loss: 4.40%
+  > CNN Model Precision: 83.91%
+  > CNN Model Recall: 73.01%
+  > CNN Model Accuracy: 98.43%
+
+Total Training Time: 1 hour, 51 minutes, 11 seconds
+
+  > CNN Model Loss: 4.39%
+  > CNN Model Precision: 82.85%
+  > CNN Model Recall: 72.10%
+  > CNN Model Accuracy: 98.44%
+
+Total Training Time: 1 hour, 54 minutes, 3 seconds
+
+  > CNN Model Loss: 4.11%
+  > CNN Model Precision: 85.87%
+  > CNN Model Recall: 71.49%
+  > CNN Model Accuracy: 98.50%
+
+Total Training Time: 1 hour, 56 minutes, 58 seconds
+
+  > CNN Model Loss: 4.17%
+  > CNN Model Precision: 86.61%
+  > CNN Model Recall: 70.72%
+  > CNN Model Accuracy: 98.49%
+
+Total Training Time: 2 hours, 20 seconds
+
+  > CNN Model Loss: 4.48%
+  > CNN Model Precision: 79.44%
+  > CNN Model Recall: 77.24%
+  > CNN Model Accuracy: 98.44%
+
+Total Training Time: 2 hours, 3 minutes, 10 seconds
+
+  > CNN Model Loss: 4.05%
+  > CNN Model Precision: 91.22%
+  > CNN Model Recall: 63.83%
+  > CNN Model Accuracy: 98.50%
+
+Total Training Time: 2 hours, 6 minutes, 32 seconds
+
+  > CNN Model Loss: 4.14%
+  > CNN Model Precision: 88.69%
+  > CNN Model Recall: 69.31%
+  > CNN Model Accuracy: 98.50%
+
+Total Training Time: 2 hours, 9 minutes, 32 seconds
+
+  > CNN Model Loss: 3.96%
+  > CNN Model Precision: 86.38%
+  > CNN Model Recall: 69.99%
+  > CNN Model Accuracy: 98.52%
+
+Total Training Time: 2 hours, 12 minutes, 22 seconds
+
+  > CNN Model Loss: 3.80%
+  > CNN Model Precision: 88.85%
+  > CNN Model Recall: 72.63%
+  > CNN Model Accuracy: 98.62%
+
+Total Training Time: 2 hours, 15 minutes, 45 seconds
+
+  > CNN Model Loss: 4.07%
+  > CNN Model Precision: 83.88%
+  > CNN Model Recall: 74.87%
+  > CNN Model Accuracy: 98.49%
+
+Total Training Time: 2 hours, 18 minutes, 39 seconds
+
+  > CNN Model Loss: 3.74%
+  > CNN Model Precision: 85.88%
+  > CNN Model Recall: 75.06%
+  > CNN Model Accuracy: 98.64%
+
+Total Training Time: 2 hours, 21 minutes, 34 seconds
+
+  > CNN Model Loss: 3.73%
+  > CNN Model Precision: 85.58%
+  > CNN Model Recall: 75.68%
+  > CNN Model Accuracy: 98.63%
+
+Total Training Time: 2 hours, 24 minutes, 23 seconds
+
+  > CNN Model Loss: 4.11%
+  > CNN Model Precision: 88.25%
+  > CNN Model Recall: 70.07%
+  > CNN Model Accuracy: 98.55%
+
+Total Training Time: 2 hours, 27 minutes, 12 seconds
+
+  > CNN Model Loss: 3.75%
+  > CNN Model Precision: 84.02%
+  > CNN Model Recall: 77.76%
+  > CNN Model Accuracy: 98.65%
+
+Total Training Time: 2 hours, 30 minutes, 5 seconds
+
+  > CNN Model Loss: 4.11%
+  > CNN Model Precision: 81.50%
+  > CNN Model Recall: 79.99%
+  > CNN Model Accuracy: 98.60%
+
+Total Training Time: 2 hours, 32 minutes, 53 seconds
+
+  > CNN Model Loss: 3.86%
+  > CNN Model Precision: 88.34%
+  > CNN Model Recall: 71.88%
+  > CNN Model Accuracy: 98.61%
+
+Total Training Time: 2 hours, 35 minutes, 50 seconds
+
+  > CNN Model Loss: 3.64%
+  > CNN Model Precision: 88.21%
+  > CNN Model Recall: 71.93%
+  > CNN Model Accuracy: 98.67%
+
+Total Training Time: 2 hours, 38 minutes, 47 seconds
+
+  > CNN Model Loss: 3.88%
+  > CNN Model Precision: 86.88%
+  > CNN Model Recall: 73.22%
+  > CNN Model Accuracy: 98.56%
+
+Total Training Time: 2 hours, 41 minutes, 37 seconds
+
+  > CNN Model Loss: 3.85%
+  > CNN Model Precision: 82.01%
+  > CNN Model Recall: 80.41%
+  > CNN Model Accuracy: 98.63%
+
+Total Training Time: 2 hours, 44 minutes, 59 seconds
+
+  > CNN Model Loss: 3.66%
+  > CNN Model Precision: 85.29%
+  > CNN Model Recall: 77.51%
+  > CNN Model Accuracy: 98.68%
+
+Total Training Time: 1 hour, 3 minutes, 34 seconds
+
+  > LSTM Model Loss: 9.03%
+  > LSTM Model Precision: 77.52%
+  > LSTM Model Recall: 34.61%
+  > LSTM Model Accuracy: 97.18%
+
+Total Training Time: 1 hour, 10 minutes
+
+  > LSTM Model Loss: 8.73%
+  > LSTM Model Precision: 76.06%
+  > LSTM Model Recall: 39.44%
+  > LSTM Model Accuracy: 97.26%
+
+Total Training Time: 1 hour, 16 minutes, 21 seconds
+
+  > LSTM Model Loss: 8.42%
+  > LSTM Model Precision: 78.80%
+  > LSTM Model Recall: 36.14%
+  > LSTM Model Accuracy: 97.30%
+
+Total Training Time: 1 hour, 22 minutes, 45 seconds
+
+  > LSTM Model Loss: 7.93%
+  > LSTM Model Precision: 79.01%
+  > LSTM Model Recall: 42.56%
+  > LSTM Model Accuracy: 97.47%
+
+Total Training Time: 1 hour, 29 minutes, 11 seconds
+
+  > LSTM Model Loss: 7.49%
+  > LSTM Model Precision: 79.56%
+  > LSTM Model Recall: 43.33%
+  > LSTM Model Accuracy: 97.60%
+
+Total Training Time: 2 hours, 56 minutes, 27 seconds
+
+  > BERT Model Loss: 14.04%
+  > BERT Model Precision: 0.00%
+  > BERT Model Recall: 0.00%
+  > BERT Model Accuracy: 96.44%
+
+Total Training Time: 2 hours, 48 minutes, 9 seconds
+
+  > CNN Model Loss: 3.39%
+  > CNN Model Precision: 89.52%
+  > CNN Model Recall: 73.24%
+  > CNN Model Accuracy: 98.71%
+
+Total Training Time: 1 hour, 35 minutes, 38 seconds
+
+  > LSTM Model Loss: 7.70%
+  > LSTM Model Precision: 80.86%
+  > LSTM Model Recall: 42.97%
+  > LSTM Model Accuracy: 97.47%
+
+Total Training Time: 1 hour, 42 minutes, 8 seconds
+
+  > LSTM Model Loss: 7.36%
+  > LSTM Model Precision: 80.41%
+  > LSTM Model Recall: 43.84%
+  > LSTM Model Accuracy: 97.63%
+
+Total Training Time: 5 hours, 47 minutes, 17 seconds
+
+  > BERT Model Loss: 15.50%
+  > BERT Model Precision: 0.00%
+  > BERT Model Recall: 0.00%
+  > BERT Model Accuracy: 96.27%
+
+Total Training Time: 1 hour, 48 minutes, 35 seconds
+
+  > LSTM Model Loss: 7.21%
+  > LSTM Model Precision: 86.89%
+  > LSTM Model Recall: 40.96%
+  > LSTM Model Accuracy: 97.63%
+
+Total Training Time: 1 hour, 54 minutes, 53 seconds
+
+  > LSTM Model Loss: 7.19%
+  > LSTM Model Precision: 84.08%
+  > LSTM Model Recall: 43.97%
+  > LSTM Model Accuracy: 97.66%
+
+Total Training Time: 8 hours, 37 minutes, 44 seconds
+
+  > BERT Model Loss: 14.74%
+  > BERT Model Precision: 0.00%
+  > BERT Model Recall: 0.00%
+  > BERT Model Accuracy: 96.16%
+
+Total Training Time: 11 hours, 29 minutes, 31 seconds
+
+  > BERT Model Loss: 14.50%
+  > BERT Model Precision: 0.00%
+  > BERT Model Recall: 0.00%
+  > BERT Model Accuracy: 96.38%
+
+Total Training Time: 2 hours, 1 minute, 18 seconds
+
+  > LSTM Model Loss: 7.06%
+  > LSTM Model Precision: 81.70%
+  > LSTM Model Recall: 48.71%
+  > LSTM Model Accuracy: 97.74%
+
+Total Training Time: 2 hours, 7 minutes, 39 seconds
+
+  > LSTM Model Loss: 6.94%
+  > LSTM Model Precision: 83.35%
+  > LSTM Model Recall: 48.62%
+  > LSTM Model Accuracy: 97.74%
+
+Total Training Time: 2 hours, 14 minutes, 1 second
+
+  > LSTM Model Loss: 6.90%
+  > LSTM Model Precision: 79.24%
+  > LSTM Model Recall: 52.27%
+  > LSTM Model Accuracy: 97.80%
+
+Total Training Time: 2 hours, 20 minutes, 27 seconds
+
+  > LSTM Model Loss: 6.18%
+  > LSTM Model Precision: 77.78%
+  > LSTM Model Recall: 56.55%
+  > LSTM Model Accuracy: 97.90%
+
+Total Training Time: 2 hours, 26 minutes, 51 seconds
+
+  > LSTM Model Loss: 6.93%
+  > LSTM Model Precision: 74.13%
+  > LSTM Model Recall: 57.12%
+  > LSTM Model Accuracy: 97.67%
+
+Total Training Time: 2 hours, 33 minutes, 16 seconds
+
+  > LSTM Model Loss: 6.71%
+  > LSTM Model Precision: 87.73%
+  > LSTM Model Recall: 45.03%
+  > LSTM Model Accuracy: 97.79%
+
+Total Training Time: 2 hours, 39 minutes, 41 seconds
+
+  > LSTM Model Loss: 6.56%
+  > LSTM Model Precision: 77.69%
+  > LSTM Model Recall: 55.16%
+  > LSTM Model Accuracy: 97.83%
+
+Total Training Time: 2 hours, 46 minutes, 5 seconds
+
+  > LSTM Model Loss: 6.39%
+  > LSTM Model Precision: 81.14%
+  > LSTM Model Recall: 53.97%
+  > LSTM Model Accuracy: 97.89%
+
+Total Training Time: 2 hours, 52 minutes, 29 seconds
+
+  > LSTM Model Loss: 6.32%
+  > LSTM Model Precision: 75.05%
+  > LSTM Model Recall: 59.63%
+  > LSTM Model Accuracy: 97.81%
+
+Total Training Time: 2 hours, 58 minutes, 53 seconds
+
+  > LSTM Model Loss: 6.18%
+  > LSTM Model Precision: 75.66%
+  > LSTM Model Recall: 59.29%
+  > LSTM Model Accuracy: 97.88%
+
+Total Training Time: 3 hours, 5 minutes, 18 seconds
+
+  > LSTM Model Loss: 6.25%
+  > LSTM Model Precision: 85.27%
+  > LSTM Model Recall: 52.38%
+  > LSTM Model Accuracy: 97.94%
+
+Total Training Time: 3 hours, 11 minutes, 43 seconds
+
+  > LSTM Model Loss: 7.04%
+  > LSTM Model Precision: 68.73%
+  > LSTM Model Recall: 64.83%
+  > LSTM Model Accuracy: 97.62%
+
+Total Training Time: 3 hours, 18 minutes, 8 seconds
+
+  > LSTM Model Loss: 6.73%
+  > LSTM Model Precision: 73.18%
+  > LSTM Model Recall: 60.06%
+  > LSTM Model Accuracy: 97.68%
+
+Total Training Time: 3 hours, 24 minutes, 30 seconds
+
+  > LSTM Model Loss: 5.64%
+  > LSTM Model Precision: 81.37%
+  > LSTM Model Recall: 60.03%
+  > LSTM Model Accuracy: 98.11%
+
+Total Training Time: 3 hours, 30 minutes, 56 seconds
+
+  > LSTM Model Loss: 6.39%
+  > LSTM Model Precision: 86.84%
+  > LSTM Model Recall: 49.52%
+  > LSTM Model Accuracy: 97.87%
+
+Total Training Time: 3 hours, 31 minutes, 46 seconds
+
+  > LSTM Model Loss: 5.84%
+  > LSTM Model Precision: 80.36%
+  > LSTM Model Recall: 59.73%
+  > LSTM Model Accuracy: 97.96%
+
+Total Training Time: 3 hours, 32 minutes, 14 seconds
+
+  > LSTM Model Loss: 5.66%
+  > LSTM Model Precision: 81.47%
+  > LSTM Model Recall: 59.47%
+  > LSTM Model Accuracy: 98.07%
+
+Total Training Time: 3 hours, 34 minutes, 2 seconds
+
+  > LSTM Model Loss: 5.74%
+  > LSTM Model Precision: 82.16%
+  > LSTM Model Recall: 60.04%
+  > LSTM Model Accuracy: 98.06%
+
+Total Training Time: 3 hours, 35 minutes, 50 seconds
+
+  > LSTM Model Loss: 5.81%
+  > LSTM Model Precision: 82.45%
+  > LSTM Model Recall: 59.37%
+  > LSTM Model Accuracy: 97.99%
+
+Total Training Time: 3 hours, 37 minutes, 39 seconds
+
+  > LSTM Model Loss: 5.69%
+  > LSTM Model Precision: 81.39%
+  > LSTM Model Recall: 61.17%
+  > LSTM Model Accuracy: 98.05%
+
+Total Training Time: 3 hours, 39 minutes, 27 seconds
+
+  > LSTM Model Loss: 5.57%
+  > LSTM Model Precision: 83.07%
+  > LSTM Model Recall: 57.34%
+  > LSTM Model Accuracy: 98.06%
+
+Total Training Time: 3 hours, 41 minutes, 15 seconds
+
+  > LSTM Model Loss: 5.54%
+  > LSTM Model Precision: 83.25%
+  > LSTM Model Recall: 59.04%
+  > LSTM Model Accuracy: 98.07%
+
+Total Training Time: 3 hours, 43 minutes, 4 seconds
+
+  > LSTM Model Loss: 5.50%
+  > LSTM Model Precision: 79.93%
+  > LSTM Model Recall: 63.37%
+  > LSTM Model Accuracy: 98.10%
+
+Total Training Time: 3 hours, 44 minutes, 52 seconds
+
+  > LSTM Model Loss: 5.49%
+  > LSTM Model Precision: 85.43%
+  > LSTM Model Recall: 58.53%
+  > LSTM Model Accuracy: 98.13%
+
+Total Training Time: 3 hours, 51 minutes, 35 seconds
+
+  > LSTM Model Loss: 5.64%
+  > LSTM Model Precision: 81.75%
+  > LSTM Model Recall: 60.60%
+  > LSTM Model Accuracy: 98.03%
+
+Total Training Time: 3 hours, 58 minutes, 16 seconds
+
+  > LSTM Model Loss: 5.28%
+  > LSTM Model Precision: 82.55%
+  > LSTM Model Recall: 64.05%
+  > LSTM Model Accuracy: 98.18%
+
+Total Training Time: 4 hours, 4 minutes, 58 seconds
+
+  > LSTM Model Loss: 5.73%
+  > LSTM Model Precision: 80.83%
+  > LSTM Model Recall: 58.80%
+  > LSTM Model Accuracy: 98.04%
+
+Total Training Time: 4 hours, 11 minutes, 40 seconds
+
+  > LSTM Model Loss: 5.11%
+  > LSTM Model Precision: 83.98%
+  > LSTM Model Recall: 63.82%
+  > LSTM Model Accuracy: 98.21%
+
+Total Training Time: 4 hours, 18 minutes, 23 seconds
+
+  > LSTM Model Loss: 5.65%
+  > LSTM Model Precision: 82.30%
+  > LSTM Model Recall: 58.76%
+  > LSTM Model Accuracy: 98.06%
+
+Total Training Time: 3 hours, 7 minutes, 23 seconds
+
+  > CNN Model Loss: 3.41%
+  > CNN Model Precision: 87.67%
+  > CNN Model Recall: 76.82%
+  > CNN Model Accuracy: 98.73%
+
+Total Training Time: 3 hours, 26 minutes, 35 seconds
+
+  > CNN Model Loss: 3.18%
+  > CNN Model Precision: 88.21%
+  > CNN Model Recall: 78.41%
+  > CNN Model Accuracy: 98.82%
+
+Total Training Time: 3 hours, 45 minutes, 37 seconds
+
+  > CNN Model Loss: 2.94%
+  > CNN Model Precision: 90.14%
+  > CNN Model Recall: 77.58%
+  > CNN Model Accuracy: 98.87%
+
+Total Training Time: 4 hours, 4 minutes, 39 seconds
+
+  > CNN Model Loss: 2.74%
+  > CNN Model Precision: 90.30%
+  > CNN Model Recall: 82.85%
+  > CNN Model Accuracy: 98.99%
+
+Total Training Time: 4 hours, 23 minutes, 40 seconds
+
+  > CNN Model Loss: 2.38%
+  > CNN Model Precision: 91.26%
+  > CNN Model Recall: 84.48%
+  > CNN Model Accuracy: 99.12%
+
+Total Training Time: 14 hours, 19 minutes, 21 seconds
+
+  > BERT Model Loss: 14.32%
+  > BERT Model Precision: 0.00%
+  > BERT Model Recall: 0.00%
+  > BERT Model Accuracy: 96.40%
+
+Total Training Time: 14 hours, 27 minutes, 31 seconds
+
+  > BERT Model Loss: 14.52%
+  > BERT Model Precision: 100.00%
+  > BERT Model Recall: 0.06%
+  > BERT Model Accuracy: 96.35%
+
+Total Training Time: 14 hours, 35 minutes, 42 seconds
+
+  > BERT Model Loss: 15.18%
+  > BERT Model Precision: 85.71%
+  > BERT Model Recall: 0.17%
+  > BERT Model Accuracy: 96.35%
+
+Total Training Time: 14 hours, 43 minutes, 54 seconds
+
+  > BERT Model Loss: 12.43%
+  > BERT Model Precision: 74.49%
+  > BERT Model Recall: 5.32%
+  > BERT Model Accuracy: 96.51%
+
+Total Training Time: 14 hours, 52 minutes, 6 seconds
+
+  > BERT Model Loss: 10.28%
+  > BERT Model Precision: 51.63%
+  > BERT Model Recall: 48.58%
+  > BERT Model Accuracy: 96.36%
+
+Total Training Time: 15 hours, 17 seconds
+
+  > BERT Model Loss: 7.92%
+  > BERT Model Precision: 63.03%
+  > BERT Model Recall: 52.17%
+  > BERT Model Accuracy: 97.12%
+
+Total Training Time: 15 hours, 8 minutes, 28 seconds
+
+  > BERT Model Loss: 9.59%
+  > BERT Model Precision: 53.95%
+  > BERT Model Recall: 70.46%
+  > BERT Model Accuracy: 96.73%
+
+Total Training Time: 15 hours, 16 minutes, 39 seconds
+
+  > BERT Model Loss: 8.32%
+  > BERT Model Precision: 58.95%
+  > BERT Model Recall: 66.92%
+  > BERT Model Accuracy: 97.02%
+
+Total Training Time: 15 hours, 24 minutes, 51 seconds
+
+  > BERT Model Loss: 7.34%
+  > BERT Model Precision: 59.72%
+  > BERT Model Recall: 67.01%
+  > BERT Model Accuracy: 97.23%
+
+Total Training Time: 15 hours, 32 minutes, 50 seconds
+
+  > BERT Model Loss: 6.92%
+  > BERT Model Precision: 63.00%
+  > BERT Model Recall: 69.72%
+  > BERT Model Accuracy: 97.40%
+
+Total Training Time: 15 hours, 41 minutes, 2 seconds
+
+  > BERT Model Loss: 6.55%
+  > BERT Model Precision: 68.38%
+  > BERT Model Recall: 63.42%
+  > BERT Model Accuracy: 97.56%
+
+Total Training Time: 15 hours, 49 minutes, 14 seconds
+
+  > BERT Model Loss: 6.49%
+  > BERT Model Precision: 67.36%
+  > BERT Model Recall: 69.76%
+  > BERT Model Accuracy: 97.71%
+
+Total Training Time: 15 hours, 57 minutes, 26 seconds
+
+  > BERT Model Loss: 7.94%
+  > BERT Model Precision: 57.40%
+  > BERT Model Recall: 77.12%
+  > BERT Model Accuracy: 97.06%
+
+Total Training Time: 16 hours, 5 minutes, 37 seconds
+
+  > BERT Model Loss: 7.47%
+  > BERT Model Precision: 54.49%
+  > BERT Model Recall: 73.73%
+  > BERT Model Accuracy: 96.82%
+
+Total Training Time: 16 hours, 13 minutes, 48 seconds
+
+  > BERT Model Loss: 6.45%
+  > BERT Model Precision: 67.47%
+  > BERT Model Recall: 73.70%
+  > BERT Model Accuracy: 97.72%
+
+Total Training Time: 16 hours, 21 minutes, 59 seconds
+
+  > BERT Model Loss: 6.24%
+  > BERT Model Precision: 69.97%
+  > BERT Model Recall: 68.34%
+  > BERT Model Accuracy: 97.81%
+
+Total Training Time: 16 hours, 30 minutes, 10 seconds
+
+  > BERT Model Loss: 8.23%
+  > BERT Model Precision: 53.64%
+  > BERT Model Recall: 80.17%
+  > BERT Model Accuracy: 96.66%
+
+Total Training Time: 16 hours, 38 minutes, 21 seconds
+
+  > BERT Model Loss: 6.26%
+  > BERT Model Precision: 62.17%
+  > BERT Model Recall: 70.59%
+  > BERT Model Accuracy: 97.36%
+
+Total Training Time: 16 hours, 46 minutes, 32 seconds
+
+  > BERT Model Loss: 6.98%
+  > BERT Model Precision: 60.53%
+  > BERT Model Recall: 78.79%
+  > BERT Model Accuracy: 97.24%
+
+Total Training Time: 16 hours, 54 minutes, 43 seconds
+
+  > BERT Model Loss: 6.74%
+  > BERT Model Precision: 60.99%
+  > BERT Model Recall: 76.96%
+  > BERT Model Accuracy: 97.33%
+
+Total Training Time: 17 hours, 2 minutes, 54 seconds
+
+  > BERT Model Loss: 7.26%
+  > BERT Model Precision: 60.85%
+  > BERT Model Recall: 73.31%
+  > BERT Model Accuracy: 97.40%
+
+Total Training Time: 17 hours, 11 minutes, 5 seconds
+
+  > BERT Model Loss: 6.85%
+  > BERT Model Precision: 63.80%
+  > BERT Model Recall: 74.90%
+  > BERT Model Accuracy: 97.48%
+
+Total Training Time: 17 hours, 19 minutes, 16 seconds
+
+  > BERT Model Loss: 7.58%
+  > BERT Model Precision: 55.70%
+  > BERT Model Recall: 79.59%
+  > BERT Model Accuracy: 97.04%
+
+Total Training Time: 17 hours, 27 minutes, 27 seconds
+
+  > BERT Model Loss: 6.46%
+  > BERT Model Precision: 62.50%
+  > BERT Model Recall: 78.94%
+  > BERT Model Accuracy: 97.49%
+
+Total Training Time: 17 hours, 35 minutes, 39 seconds
+
+  > BERT Model Loss: 7.18%
+  > BERT Model Precision: 55.96%
+  > BERT Model Recall: 78.08%
+  > BERT Model Accuracy: 96.95%
+
+Total Training Time: 17 hours, 43 minutes, 51 seconds
+
+  > BERT Model Loss: 6.59%
+  > BERT Model Precision: 58.80%
+  > BERT Model Recall: 77.65%
+  > BERT Model Accuracy: 97.18%
+
+Total Training Time: 17 hours, 52 minutes, 2 seconds
+
+  > BERT Model Loss: 7.42%
+  > BERT Model Precision: 57.95%
+  > BERT Model Recall: 80.54%
+  > BERT Model Accuracy: 97.24%
+
+Total Training Time: 18 hours, 14 seconds
+
+  > BERT Model Loss: 6.51%
+  > BERT Model Precision: 62.43%
+  > BERT Model Recall: 73.64%
+  > BERT Model Accuracy: 97.37%
+
+Total Training Time: 18 hours, 8 minutes, 25 seconds
+
+  > BERT Model Loss: 7.20%
+  > BERT Model Precision: 56.59%
+  > BERT Model Recall: 77.38%
+  > BERT Model Accuracy: 97.09%
+
+Total Training Time: 18 hours, 16 minutes, 37 seconds
+
+  > BERT Model Loss: 7.20%
+  > BERT Model Precision: 58.79%
+  > BERT Model Recall: 77.04%
+  > BERT Model Accuracy: 97.04%
+
+Total Training Time: 18 hours, 24 minutes, 49 seconds
+
+  > BERT Model Loss: 6.49%
+  > BERT Model Precision: 61.86%
+  > BERT Model Recall: 76.19%
+  > BERT Model Accuracy: 97.40%
+
+Total Training Time: 18 hours, 33 minutes
+
+  > BERT Model Loss: 7.24%
+  > BERT Model Precision: 57.12%
+  > BERT Model Recall: 84.01%
+  > BERT Model Accuracy: 97.14%
+
+Total Training Time: 18 hours, 41 minutes, 11 seconds
+
+  > BERT Model Loss: 7.15%
+  > BERT Model Precision: 58.73%
+  > BERT Model Recall: 81.76%
+  > BERT Model Accuracy: 97.10%
+
+Total Training Time: 18 hours, 49 minutes, 22 seconds
+
+  > BERT Model Loss: 6.75%
+  > BERT Model Precision: 60.21%
+  > BERT Model Recall: 80.28%
+  > BERT Model Accuracy: 97.27%
+
+Total Training Time: 18 hours, 57 minutes, 33 seconds
+
+  > BERT Model Loss: 7.73%
+  > BERT Model Precision: 55.41%
+  > BERT Model Recall: 83.04%
+  > BERT Model Accuracy: 96.77%
+
+Total Training Time: 19 hours, 5 minutes, 45 seconds
+
+  > BERT Model Loss: 7.04%
+  > BERT Model Precision: 58.42%
+  > BERT Model Recall: 77.17%
+  > BERT Model Accuracy: 97.07%
+
+Total Training Time: 19 hours, 13 minutes, 56 seconds
+
+  > BERT Model Loss: 8.64%
+  > BERT Model Precision: 52.39%
+  > BERT Model Recall: 87.96%
+  > BERT Model Accuracy: 96.45%
+
+Total Training Time: 19 hours, 22 minutes, 7 seconds
+
+  > BERT Model Loss: 6.82%
+  > BERT Model Precision: 56.42%
+  > BERT Model Recall: 80.32%
+  > BERT Model Accuracy: 97.00%
+
+Total Training Time: 19 hours, 30 minutes, 18 seconds
+
+  > BERT Model Loss: 7.57%
+  > BERT Model Precision: 56.42%
+  > BERT Model Recall: 84.62%
+  > BERT Model Accuracy: 97.04%
+
+Total Training Time: 19 hours, 38 minutes, 29 seconds
+
+  > BERT Model Loss: 6.09%
+  > BERT Model Precision: 60.60%
+  > BERT Model Recall: 80.59%
+  > BERT Model Accuracy: 97.52%
+
+Total Training Time: 19 hours, 46 minutes, 40 seconds
+
+  > BERT Model Loss: 6.74%
+  > BERT Model Precision: 58.25%
+  > BERT Model Recall: 84.03%
+  > BERT Model Accuracy: 97.21%
+
+Total Training Time: 19 hours, 54 minutes, 51 seconds
+
+  > BERT Model Loss: 6.47%
+  > BERT Model Precision: 60.87%
+  > BERT Model Recall: 81.15%
+  > BERT Model Accuracy: 97.32%
+
+Total Training Time: 20 hours, 3 minutes, 2 seconds
+
+  > BERT Model Loss: 8.88%
+  > BERT Model Precision: 50.11%
+  > BERT Model Recall: 86.36%
+  > BERT Model Accuracy: 96.25%
+
+Total Training Time: 20 hours, 11 minutes, 13 seconds
+
+  > BERT Model Loss: 6.51%
+  > BERT Model Precision: 58.59%
+  > BERT Model Recall: 82.64%
+  > BERT Model Accuracy: 97.18%
+
+Total Training Time: 20 hours, 19 minutes, 24 seconds
+
+  > BERT Model Loss: 7.01%
+  > BERT Model Precision: 55.63%
+  > BERT Model Recall: 83.72%
+  > BERT Model Accuracy: 96.98%
+
+Total Training Time: 20 hours, 27 minutes, 35 seconds
+
+  > BERT Model Loss: 6.86%
+  > BERT Model Precision: 57.06%
+  > BERT Model Recall: 83.39%
+  > BERT Model Accuracy: 97.19%
+
+Total Training Time: 20 hours, 35 minutes, 46 seconds
+
+  > BERT Model Loss: 6.70%
+  > BERT Model Precision: 58.77%
+  > BERT Model Recall: 82.19%
+  > BERT Model Accuracy: 97.21%
+
+Total Training Time: 20 hours, 43 minutes, 57 seconds
+
+  > BERT Model Loss: 5.83%
+  > BERT Model Precision: 64.31%
+  > BERT Model Recall: 80.37%
+  > BERT Model Accuracy: 97.57%
+
+Total Training Time: 20 hours, 52 minutes, 8 seconds
+
+  > BERT Model Loss: 6.41%
+  > BERT Model Precision: 58.30%
+  > BERT Model Recall: 82.19%
+  > BERT Model Accuracy: 97.28%
+
+Total Training Time: 21 hours, 19 seconds
+
+  > BERT Model Loss: 6.31%
+  > BERT Model Precision: 60.15%
+  > BERT Model Recall: 86.29%
+  > BERT Model Accuracy: 97.45%
+
+Total Training Time: 21 hours, 8 minutes, 30 seconds
+
+  > BERT Model Loss: 7.12%
+  > BERT Model Precision: 55.63%
+  > BERT Model Recall: 88.24%
+  > BERT Model Accuracy: 96.92%
+
+Total Training Time: 21 hours, 41 minutes, 13 seconds
+
+  > BERT Model Loss: 6.00%
+  > BERT Model Precision: 62.42%
+  > BERT Model Recall: 85.28%
+  > BERT Model Accuracy: 97.52%
+
+Total Training Time: 22 hours, 13 minutes, 55 seconds
+
+  > BERT Model Loss: 6.57%
+  > BERT Model Precision: 58.59%
+  > BERT Model Recall: 85.21%
+  > BERT Model Accuracy: 97.23%
+
+Total Training Time: 22 hours, 46 minutes, 38 seconds
+
+  > BERT Model Loss: 6.29%
+  > BERT Model Precision: 59.60%
+  > BERT Model Recall: 83.62%
+  > BERT Model Accuracy: 97.22%
+
+Total Training Time: 23 hours, 19 minutes, 17 seconds
+
+  > BERT Model Loss: 5.28%
+  > BERT Model Precision: 65.52%
+  > BERT Model Recall: 84.04%
+  > BERT Model Accuracy: 97.84%
+
+Total Training Time: 23 hours, 51 minutes, 58 seconds
+
+  > BERT Model Loss: 4.87%
+  > BERT Model Precision: 68.92%
+  > BERT Model Recall: 82.27%
+  > BERT Model Accuracy: 97.89%
+
+Total Training Time: 1 day, 24 minutes, 39 seconds
+
+  > BERT Model Loss: 5.09%
+  > BERT Model Precision: 63.82%
+  > BERT Model Recall: 87.45%
+  > BERT Model Accuracy: 97.81%
+
+Total Training Time: 1 day, 57 minutes, 21 seconds
+
+  > BERT Model Loss: 5.10%
+  > BERT Model Precision: 68.65%
+  > BERT Model Recall: 89.28%
+  > BERT Model Accuracy: 98.07%
+
+Total Training Time: 1 day, 1 hour, 30 minutes, 3 seconds
+
+  > BERT Model Loss: 5.08%
+  > BERT Model Precision: 65.77%
+  > BERT Model Recall: 88.32%
+  > BERT Model Accuracy: 97.86%
+
+Total Training Time: 1 day, 2 hours, 2 minutes, 45 seconds
+
+  > BERT Model Loss: 5.33%
+  > BERT Model Precision: 62.56%
+  > BERT Model Recall: 90.73%
+  > BERT Model Accuracy: 97.69%
+
+Total Training Time: 1 day, 2 hours, 35 minutes, 28 seconds
+
+  > BERT Model Loss: 5.22%
+  > BERT Model Precision: 63.86%
+  > BERT Model Recall: 90.92%
+  > BERT Model Accuracy: 97.82%
+
+Total Training Time: 1 day, 3 hours, 8 minutes, 12 seconds
+
+  > BERT Model Loss: 4.10%
+  > BERT Model Precision: 72.28%
+  > BERT Model Recall: 87.77%
+  > BERT Model Accuracy: 98.35%
+
+Total Training Time: 1 day, 3 hours, 40 minutes, 55 seconds
+
+  > BERT Model Loss: 4.85%
+  > BERT Model Precision: 66.29%
+  > BERT Model Recall: 91.37%
+  > BERT Model Accuracy: 97.93%
+
+Total Training Time: 1 day, 4 hours, 13 minutes, 37 seconds
+
+  > BERT Model Loss: 4.79%
+  > BERT Model Precision: 68.32%
+  > BERT Model Recall: 90.07%
+  > BERT Model Accuracy: 98.08%
+
+Total Training Time: 1 day, 4 hours, 46 minutes, 20 seconds
+
+  > BERT Model Loss: 3.96%
+  > BERT Model Precision: 72.55%
+  > BERT Model Recall: 92.01%
+  > BERT Model Accuracy: 98.42%
+
+Total Training Time: 6 minutes, 11 seconds
+
+  > CNN Model Loss: 39.22%
+  > CNN Model Precision: 3.37%
+  > CNN Model Recall: 0.09%
+  > CNN Model Accuracy: 96.25%
+
+Total Training Time: 1 hour, 9 minutes, 45 seconds
+
+  > LSTM Model Loss: 66.31%
+  > LSTM Model Precision: 1.31%
+  > LSTM Model Recall: 6.30%
+  > LSTM Model Accuracy: 79.21%
+
+Total Training Time: 4 hours, 22 minutes, 17 seconds
+
+  > LSTM Model Loss: 5.11%
+  > LSTM Model Precision: 82.11%
+  > LSTM Model Recall: 65.56%
+  > LSTM Model Accuracy: 98.22%
+
+Total Training Time: 4 hours, 26 minutes, 11 seconds
+
+  > LSTM Model Loss: 5.32%
+  > LSTM Model Precision: 82.32%
+  > LSTM Model Recall: 63.30%
+  > LSTM Model Accuracy: 98.20%
+
+Total Training Time: 4 hours, 30 minutes, 5 seconds
+
+  > LSTM Model Loss: 5.24%
+  > LSTM Model Precision: 83.57%
+  > LSTM Model Recall: 64.60%
+  > LSTM Model Accuracy: 98.18%
+
+Total Training Time: 4 hours, 33 minutes, 58 seconds
+
+  > LSTM Model Loss: 5.05%
+  > LSTM Model Precision: 82.02%
+  > LSTM Model Recall: 65.74%
+  > LSTM Model Accuracy: 98.20%
+
+Total Training Time: 4 hours, 37 minutes, 51 seconds
+
+  > LSTM Model Loss: 4.90%
+  > LSTM Model Precision: 82.13%
+  > LSTM Model Recall: 63.48%
+  > LSTM Model Accuracy: 98.27%
+
+Total Training Time: 4 hours, 41 minutes, 45 seconds
+
+  > LSTM Model Loss: 5.37%
+  > LSTM Model Precision: 81.65%
+  > LSTM Model Recall: 61.96%
+  > LSTM Model Accuracy: 98.13%
+
+Total Training Time: 4 hours, 45 minutes, 39 seconds
+
+  > LSTM Model Loss: 5.14%
+  > LSTM Model Precision: 82.36%
+  > LSTM Model Recall: 64.01%
+  > LSTM Model Accuracy: 98.17%
+
+Total Training Time: 4 hours, 49 minutes, 32 seconds
+
+  > LSTM Model Loss: 5.33%
+  > LSTM Model Precision: 79.97%
+  > LSTM Model Recall: 64.14%
+  > LSTM Model Accuracy: 98.16%
+
+Total Training Time: 4 hours, 53 minutes, 25 seconds
+
+  > LSTM Model Loss: 4.94%
+  > LSTM Model Precision: 84.36%
+  > LSTM Model Recall: 65.19%
+  > LSTM Model Accuracy: 98.27%
+
+Total Training Time: 4 hours, 57 minutes, 18 seconds
+
+  > LSTM Model Loss: 5.19%
+  > LSTM Model Precision: 83.30%
+  > LSTM Model Recall: 66.02%
+  > LSTM Model Accuracy: 98.24%
+
+Total Training Time: 5 hours, 1 minute, 11 seconds
+
+  > LSTM Model Loss: 5.41%
+  > LSTM Model Precision: 84.32%
+  > LSTM Model Recall: 63.85%
+  > LSTM Model Accuracy: 98.18%
+
+Total Training Time: 5 hours, 5 minutes, 4 seconds
+
+  > LSTM Model Loss: 5.08%
+  > LSTM Model Precision: 84.19%
+  > LSTM Model Recall: 63.12%
+  > LSTM Model Accuracy: 98.20%
+
+Total Training Time: 5 hours, 8 minutes, 58 seconds
+
+  > LSTM Model Loss: 5.31%
+  > LSTM Model Precision: 80.74%
+  > LSTM Model Recall: 65.64%
+  > LSTM Model Accuracy: 98.12%
+
+Total Training Time: 5 hours, 12 minutes, 51 seconds
+
+  > LSTM Model Loss: 4.79%
+  > LSTM Model Precision: 83.46%
+  > LSTM Model Recall: 67.56%
+  > LSTM Model Accuracy: 98.37%
+
+Total Training Time: 5 hours, 16 minutes, 44 seconds
+
+  > LSTM Model Loss: 5.40%
+  > LSTM Model Precision: 80.08%
+  > LSTM Model Recall: 63.62%
+  > LSTM Model Accuracy: 98.11%
+
+Total Training Time: 5 hours, 20 minutes, 38 seconds
+
+  > LSTM Model Loss: 4.79%
+  > LSTM Model Precision: 83.75%
+  > LSTM Model Recall: 66.02%
+  > LSTM Model Accuracy: 98.34%
+
+Total Training Time: 5 hours, 24 minutes, 31 seconds
+
+  > LSTM Model Loss: 5.24%
+  > LSTM Model Precision: 82.50%
+  > LSTM Model Recall: 62.97%
+  > LSTM Model Accuracy: 98.21%
+
+Total Training Time: 5 hours, 28 minutes, 24 seconds
+
+  > LSTM Model Loss: 5.45%
+  > LSTM Model Precision: 81.69%
+  > LSTM Model Recall: 64.57%
+  > LSTM Model Accuracy: 98.12%
+
+Total Training Time: 5 hours, 32 minutes, 18 seconds
+
+  > LSTM Model Loss: 4.92%
+  > LSTM Model Precision: 83.07%
+  > LSTM Model Recall: 64.95%
+  > LSTM Model Accuracy: 98.30%
+
+Total Training Time: 5 hours, 36 minutes, 12 seconds
+
+  > LSTM Model Loss: 5.10%
+  > LSTM Model Precision: 81.66%
+  > LSTM Model Recall: 68.12%
+  > LSTM Model Accuracy: 98.21%
+
+Total Training Time: 5 hours, 40 minutes, 5 seconds
+
+  > LSTM Model Loss: 4.72%
+  > LSTM Model Precision: 84.25%
+  > LSTM Model Recall: 66.67%
+  > LSTM Model Accuracy: 98.33%
+
+Total Training Time: 5 hours, 43 minutes, 58 seconds
+
+  > LSTM Model Loss: 4.90%
+  > LSTM Model Precision: 83.73%
+  > LSTM Model Recall: 63.75%
+  > LSTM Model Accuracy: 98.29%
+
+Total Training Time: 5 hours, 47 minutes, 50 seconds
+
+  > LSTM Model Loss: 5.20%
+  > LSTM Model Precision: 82.44%
+  > LSTM Model Recall: 64.31%
+  > LSTM Model Accuracy: 98.23%
+
+Total Training Time: 5 hours, 51 minutes, 44 seconds
+
+  > LSTM Model Loss: 5.38%
+  > LSTM Model Precision: 81.55%
+  > LSTM Model Recall: 64.67%
+  > LSTM Model Accuracy: 98.12%
+
+Total Training Time: 5 hours, 55 minutes, 38 seconds
+
+  > LSTM Model Loss: 5.30%
+  > LSTM Model Precision: 81.74%
+  > LSTM Model Recall: 65.43%
+  > LSTM Model Accuracy: 98.16%
+
+Total Training Time: 4 hours, 33 minutes, 1 second
+
+  > CNN Model Loss: 2.31%
+  > CNN Model Precision: 92.02%
+  > CNN Model Recall: 83.18%
+  > CNN Model Accuracy: 99.13%
+
+Total Training Time: 4 hours, 42 minutes, 19 seconds
+
+  > CNN Model Loss: 2.26%
+  > CNN Model Precision: 90.50%
+  > CNN Model Recall: 84.39%
+  > CNN Model Accuracy: 99.15%
+
+Total Training Time: 4 hours, 51 minutes, 34 seconds
+
+  > CNN Model Loss: 2.14%
+  > CNN Model Precision: 91.27%
+  > CNN Model Recall: 86.36%
+  > CNN Model Accuracy: 99.21%
+
+Total Training Time: 5 hours, 50 seconds
+
+  > CNN Model Loss: 2.11%
+  > CNN Model Precision: 92.08%
+  > CNN Model Recall: 86.42%
+  > CNN Model Accuracy: 99.24%
+
+Total Training Time: 5 hours, 10 minutes, 5 seconds
+
+  > CNN Model Loss: 2.24%
+  > CNN Model Precision: 90.64%
+  > CNN Model Recall: 86.91%
+  > CNN Model Accuracy: 99.17%
+
+Total Training Time: 5 hours, 19 minutes, 20 seconds
+
+  > CNN Model Loss: 2.23%
+  > CNN Model Precision: 91.50%
+  > CNN Model Recall: 86.36%
+  > CNN Model Accuracy: 99.20%
+
+Total Training Time: 5 hours, 28 minutes, 36 seconds
+
+  > CNN Model Loss: 2.16%
+  > CNN Model Precision: 90.79%
+  > CNN Model Recall: 86.00%
+  > CNN Model Accuracy: 99.20%
+
+Total Training Time: 5 hours, 37 minutes, 51 seconds
+
+  > CNN Model Loss: 2.26%
+  > CNN Model Precision: 92.35%
+  > CNN Model Recall: 84.74%
+  > CNN Model Accuracy: 99.16%
+
+Total Training Time: 5 hours, 47 minutes, 6 seconds
+
+  > CNN Model Loss: 1.97%
+  > CNN Model Precision: 92.50%
+  > CNN Model Recall: 87.53%
+  > CNN Model Accuracy: 99.30%
+
+Total Training Time: 5 hours, 56 minutes, 21 seconds
+
+  > CNN Model Loss: 2.10%
+  > CNN Model Precision: 91.46%
+  > CNN Model Recall: 87.22%
+  > CNN Model Accuracy: 99.23%
+
+Total Training Time: 6 hours, 5 minutes, 36 seconds
+
+  > CNN Model Loss: 2.14%
+  > CNN Model Precision: 91.88%
+  > CNN Model Recall: 84.76%
+  > CNN Model Accuracy: 99.15%
+
+Total Training Time: 6 hours, 14 minutes, 50 seconds
+
+  > CNN Model Loss: 2.01%
+  > CNN Model Precision: 93.58%
+  > CNN Model Recall: 85.43%
+  > CNN Model Accuracy: 99.25%
+
+Total Training Time: 6 hours, 24 minutes, 4 seconds
+
+  > CNN Model Loss: 2.04%
+  > CNN Model Precision: 92.31%
+  > CNN Model Recall: 87.24%
+  > CNN Model Accuracy: 99.26%
+
+Total Training Time: 6 hours, 33 minutes, 18 seconds
+
+  > CNN Model Loss: 1.92%
+  > CNN Model Precision: 92.48%
+  > CNN Model Recall: 87.40%
+  > CNN Model Accuracy: 99.30%
+
+Total Training Time: 6 hours, 42 minutes, 32 seconds
+
+  > CNN Model Loss: 1.88%
+  > CNN Model Precision: 93.02%
+  > CNN Model Recall: 86.62%
+  > CNN Model Accuracy: 99.28%
+
+Total Training Time: 6 hours, 51 minutes, 46 seconds
+
+  > CNN Model Loss: 1.93%
+  > CNN Model Precision: 92.63%
+  > CNN Model Recall: 88.23%
+  > CNN Model Accuracy: 99.29%
+
+Total Training Time: 7 hours, 1 minute
+
+  > CNN Model Loss: 1.87%
+  > CNN Model Precision: 93.02%
+  > CNN Model Recall: 86.79%
+  > CNN Model Accuracy: 99.29%
+
+Total Training Time: 7 hours, 10 minutes, 15 seconds
+
+  > CNN Model Loss: 1.87%
+  > CNN Model Precision: 94.06%
+  > CNN Model Recall: 86.31%
+  > CNN Model Accuracy: 99.28%
+
+Total Training Time: 7 hours, 19 minutes, 30 seconds
+
+  > CNN Model Loss: 1.77%
+  > CNN Model Precision: 91.88%
+  > CNN Model Recall: 89.45%
+  > CNN Model Accuracy: 99.34%
+
+Total Training Time: 7 hours, 28 minutes, 44 seconds
+
+  > CNN Model Loss: 1.81%
+  > CNN Model Precision: 92.63%
+  > CNN Model Recall: 88.60%
+  > CNN Model Accuracy: 99.32%
+
+Total Training Time: 7 hours, 37 minutes, 59 seconds
+
+  > CNN Model Loss: 1.75%
+  > CNN Model Precision: 93.68%
+  > CNN Model Recall: 87.53%
+  > CNN Model Accuracy: 99.33%
+
+Total Training Time: 7 hours, 47 minutes, 13 seconds
+
+  > CNN Model Loss: 1.73%
+  > CNN Model Precision: 93.54%
+  > CNN Model Recall: 88.60%
+  > CNN Model Accuracy: 99.36%
+
+Total Training Time: 7 hours, 56 minutes, 27 seconds
+
+  > CNN Model Loss: 1.81%
+  > CNN Model Precision: 92.69%
+  > CNN Model Recall: 89.59%
+  > CNN Model Accuracy: 99.34%
+
+Total Training Time: 8 hours, 5 minutes, 41 seconds
+
+  > CNN Model Loss: 1.68%
+  > CNN Model Precision: 92.71%
+  > CNN Model Recall: 89.90%
+  > CNN Model Accuracy: 99.40%
+
+Total Training Time: 8 hours, 14 minutes, 56 seconds
+
+  > CNN Model Loss: 1.72%
+  > CNN Model Precision: 92.53%
+  > CNN Model Recall: 90.11%
+  > CNN Model Accuracy: 99.36%
+
+Total Training Time: 1 day, 4 hours, 59 minutes, 32 seconds
+
+  > BERT Model Loss: 4.32%
+  > BERT Model Precision: 72.22%
+  > BERT Model Recall: 79.66%
+  > BERT Model Accuracy: 98.16%
+
+Total Training Time: 1 day, 5 hours, 12 minutes, 12 seconds
+
+  > BERT Model Loss: 5.19%
+  > BERT Model Precision: 64.30%
+  > BERT Model Recall: 84.66%
+  > BERT Model Accuracy: 97.72%
+
+Total Training Time: 1 day, 5 hours, 25 minutes, 1 second
+
+  > BERT Model Loss: 5.70%
+  > BERT Model Precision: 58.06%
+  > BERT Model Recall: 90.71%
+  > BERT Model Accuracy: 97.43%
+
+Total Training Time: 1 day, 5 hours, 37 minutes, 54 seconds
+
+  > BERT Model Loss: 6.19%
+  > BERT Model Precision: 60.78%
+  > BERT Model Recall: 93.29%
+  > BERT Model Accuracy: 97.57%
+
+Total Training Time: 1 day, 5 hours, 50 minutes, 58 seconds
+
+  > BERT Model Loss: 6.08%
+  > BERT Model Precision: 56.63%
+  > BERT Model Recall: 93.57%
+  > BERT Model Accuracy: 97.21%
+
+Total Training Time: 1 day, 6 hours, 4 minutes, 7 seconds
+
+  > BERT Model Loss: 6.32%
+  > BERT Model Precision: 56.99%
+  > BERT Model Recall: 92.09%
+  > BERT Model Accuracy: 97.16%
+
+Total Training Time: 1 day, 6 hours, 17 minutes, 12 seconds
+
+  > BERT Model Loss: 5.98%
+  > BERT Model Precision: 59.71%
+  > BERT Model Recall: 86.45%
+  > BERT Model Accuracy: 97.42%
+
+Total Training Time: 1 day, 6 hours, 30 minutes, 19 seconds
+
+  > BERT Model Loss: 4.89%
+  > BERT Model Precision: 63.74%
+  > BERT Model Recall: 88.63%
+  > BERT Model Accuracy: 97.81%
+
+Total Training Time: 1 day, 6 hours, 43 minutes, 19 seconds
+
+  > BERT Model Loss: 7.70%
+  > BERT Model Precision: 53.96%
+  > BERT Model Recall: 90.74%
+  > BERT Model Accuracy: 96.70%
+
+Total Training Time: 1 day, 6 hours, 56 minutes, 10 seconds
+
+  > BERT Model Loss: 6.94%
+  > BERT Model Precision: 54.24%
+  > BERT Model Recall: 92.26%
+  > BERT Model Accuracy: 96.95%
+
+Total Training Time: 1 day, 7 hours, 9 minutes, 11 seconds
+
+  > BERT Model Loss: 6.57%
+  > BERT Model Precision: 57.71%
+  > BERT Model Recall: 93.09%
+  > BERT Model Accuracy: 97.25%
+
+Total Training Time: 1 day, 7 hours, 22 minutes, 13 seconds
+
+  > BERT Model Loss: 9.47%
+  > BERT Model Precision: 55.02%
+  > BERT Model Recall: 93.23%
+  > BERT Model Accuracy: 97.03%
+
+Total Training Time: 1 day, 7 hours, 35 minutes, 17 seconds
+
+  > BERT Model Loss: 6.61%
+  > BERT Model Precision: 54.74%
+  > BERT Model Recall: 91.13%
+  > BERT Model Accuracy: 96.95%
+
+Total Training Time: 1 day, 7 hours, 48 minutes, 22 seconds
+
+  > BERT Model Loss: 6.48%
+  > BERT Model Precision: 60.02%
+  > BERT Model Recall: 90.31%
+  > BERT Model Accuracy: 97.41%
+
+Total Training Time: 1 day, 8 hours, 1 minute, 23 seconds
+
+  > BERT Model Loss: 8.18%
+  > BERT Model Precision: 54.95%
+  > BERT Model Recall: 91.76%
+  > BERT Model Accuracy: 96.96%
+
+Total Training Time: 1 day, 8 hours, 14 minutes, 29 seconds
+
+  > BERT Model Loss: 6.25%
+  > BERT Model Precision: 57.64%
+  > BERT Model Recall: 92.72%
+  > BERT Model Accuracy: 97.27%
+
+Total Training Time: 1 day, 8 hours, 27 minutes, 33 seconds
+
+  > BERT Model Loss: 6.46%
+  > BERT Model Precision: 56.50%
+  > BERT Model Recall: 92.64%
+  > BERT Model Accuracy: 97.14%
+
+Total Training Time: 1 day, 8 hours, 40 minutes, 40 seconds
+
+  > BERT Model Loss: 7.26%
+  > BERT Model Precision: 51.97%
+  > BERT Model Recall: 94.60%
+  > BERT Model Accuracy: 96.79%
+
+Total Training Time: 1 day, 8 hours, 53 minutes, 45 seconds
+
+  > BERT Model Loss: 9.19%
+  > BERT Model Precision: 49.02%
+  > BERT Model Recall: 95.39%
+  > BERT Model Accuracy: 96.26%
+
+Total Training Time: 1 day, 9 hours, 6 minutes, 49 seconds
+
+  > BERT Model Loss: 9.74%
+  > BERT Model Precision: 46.30%
+  > BERT Model Recall: 95.53%
+  > BERT Model Accuracy: 95.82%
+
+Total Training Time: 1 day, 9 hours, 19 minutes, 55 seconds
+
+  > BERT Model Loss: 7.33%
+  > BERT Model Precision: 56.22%
+  > BERT Model Recall: 92.13%
+  > BERT Model Accuracy: 97.10%
+
+Total Training Time: 1 day, 9 hours, 33 minutes
+
+  > BERT Model Loss: 7.58%
+  > BERT Model Precision: 54.32%
+  > BERT Model Recall: 93.04%
+  > BERT Model Accuracy: 96.83%
+
+Total Training Time: 1 day, 9 hours, 46 minutes, 6 seconds
+
+  > BERT Model Loss: 6.86%
+  > BERT Model Precision: 56.60%
+  > BERT Model Recall: 90.54%
+  > BERT Model Accuracy: 97.18%
+
+Total Training Time: 1 day, 9 hours, 59 minutes, 12 seconds
+
+  > BERT Model Loss: 9.04%
+  > BERT Model Precision: 51.05%
+  > BERT Model Recall: 94.10%
+  > BERT Model Accuracy: 96.56%
+
+Total Training Time: 1 day, 10 hours, 12 minutes, 16 seconds
+
+  > BERT Model Loss: 9.08%
+  > BERT Model Precision: 51.93%
+  > BERT Model Recall: 95.08%
+  > BERT Model Accuracy: 96.49%
+
+Total Training Time: 1 day, 10 hours, 25 minutes, 23 seconds
+
+  > BERT Model Loss: 6.86%
+  > BERT Model Precision: 56.23%
+  > BERT Model Recall: 93.79%
+  > BERT Model Accuracy: 97.22%
+
+Total Training Time: 1 day, 11 hours, 6 minutes, 1 second
+
+  > BERT Model Loss: 8.16%
+  > BERT Model Precision: 53.66%
+  > BERT Model Recall: 94.78%
+  > BERT Model Accuracy: 96.77%
+
+Total Training Time: 1 day, 11 hours, 46 minutes, 46 seconds
+
+  > BERT Model Loss: 7.89%
+  > BERT Model Precision: 55.11%
+  > BERT Model Recall: 95.24%
+  > BERT Model Accuracy: 96.89%
+
+Total Training Time: 1 day, 12 hours, 27 minutes, 29 seconds
+
+  > BERT Model Loss: 7.94%
+  > BERT Model Precision: 56.71%
+  > BERT Model Recall: 95.60%
+  > BERT Model Accuracy: 97.10%
+
+Total Training Time: 1 day, 13 hours, 8 minutes, 12 seconds
+
+  > BERT Model Loss: 8.86%
+  > BERT Model Precision: 54.70%
+  > BERT Model Recall: 95.79%
+  > BERT Model Accuracy: 96.99%
+
+Total Training Time: 1 day, 13 hours, 48 minutes, 55 seconds
+
+  > BERT Model Loss: 6.24%
+  > BERT Model Precision: 62.12%
+  > BERT Model Recall: 95.03%
+  > BERT Model Accuracy: 97.82%
+
+Total Training Time: 1 day, 14 hours, 29 minutes, 40 seconds
+
+  > BERT Model Loss: 7.38%
+  > BERT Model Precision: 56.69%
+  > BERT Model Recall: 96.79%
+  > BERT Model Accuracy: 97.13%
+
+Total Training Time: 1 day, 15 hours, 10 minutes, 24 seconds
+
+  > BERT Model Loss: 6.87%
+  > BERT Model Precision: 59.22%
+  > BERT Model Recall: 97.02%
+  > BERT Model Accuracy: 97.37%
+
+Total Training Time: 1 day, 15 hours, 51 minutes, 7 seconds
+
+  > BERT Model Loss: 5.82%
+  > BERT Model Precision: 62.93%
+  > BERT Model Recall: 96.79%
+  > BERT Model Accuracy: 97.82%
+
+Total Training Time: 1 day, 16 hours, 31 minutes, 52 seconds
+
+  > BERT Model Loss: 6.84%
+  > BERT Model Precision: 58.79%
+  > BERT Model Recall: 96.20%
+  > BERT Model Accuracy: 97.41%
+
+Total Training Time: 1 day, 17 hours, 12 minutes, 37 seconds
+
+  > BERT Model Loss: 6.88%
+  > BERT Model Precision: 59.13%
+  > BERT Model Recall: 97.14%
+  > BERT Model Accuracy: 97.42%
+
+Total Training Time: 1 day, 17 hours, 53 minutes, 23 seconds
+
+  > BERT Model Loss: 5.44%
+  > BERT Model Precision: 63.85%
+  > BERT Model Recall: 97.12%
+  > BERT Model Accuracy: 97.75%
+
+Total Training Time: 1 day, 18 hours, 34 minutes, 5 seconds
+
+  > BERT Model Loss: 6.70%
+  > BERT Model Precision: 59.54%
+  > BERT Model Recall: 97.22%
+  > BERT Model Accuracy: 97.38%
+
+Total Training Time: 1 day, 18 hours, 42 minutes, 20 seconds
+
+  > BERT Model Loss: 6.25%
+  > BERT Model Precision: 61.26%
+  > BERT Model Recall: 97.22%
+  > BERT Model Accuracy: 97.61%
+
+Total Training Time: 1 day, 18 hours, 50 minutes, 13 seconds
+
+  > BERT Model Loss: 5.81%
+  > BERT Model Precision: 62.99%
+  > BERT Model Recall: 97.04%
+  > BERT Model Accuracy: 97.82%
+
+Total Training Time: 1 day, 18 hours, 58 minutes, 27 seconds
+
+  > BERT Model Loss: 7.06%
+  > BERT Model Precision: 61.47%
+  > BERT Model Recall: 96.92%
+  > BERT Model Accuracy: 97.62%
+
+Total Training Time: 1 day, 19 hours, 6 minutes, 40 seconds
+
+  > BERT Model Loss: 5.97%
+  > BERT Model Precision: 62.37%
+  > BERT Model Recall: 97.68%
+  > BERT Model Accuracy: 97.77%
+
+Total Training Time: 1 day, 19 hours, 14 minutes, 53 seconds
+
+  > BERT Model Loss: 6.16%
+  > BERT Model Precision: 60.92%
+  > BERT Model Recall: 97.81%
+  > BERT Model Accuracy: 97.77%
+
+Total Training Time: 1 day, 19 hours, 23 minutes, 1 second
+
+  > BERT Model Loss: 6.78%
+  > BERT Model Precision: 59.04%
+  > BERT Model Recall: 97.58%
+  > BERT Model Accuracy: 97.49%
+
+Total Training Time: 1 day, 19 hours, 31 minutes, 15 seconds
+
+  > BERT Model Loss: 5.57%
+  > BERT Model Precision: 63.44%
+  > BERT Model Recall: 96.99%
+  > BERT Model Accuracy: 97.81%
+
+Total Training Time: 1 day, 19 hours, 39 minutes, 29 seconds
+
+  > BERT Model Loss: 5.49%
+  > BERT Model Precision: 63.94%
+  > BERT Model Recall: 97.19%
+  > BERT Model Accuracy: 97.84%
+
+Total Training Time: 1 day, 19 hours, 47 minutes, 43 seconds
+
+  > BERT Model Loss: 7.10%
+  > BERT Model Precision: 59.22%
+  > BERT Model Recall: 97.72%
+  > BERT Model Accuracy: 97.38%
+
+Total Training Time: 1 day, 19 hours, 55 minutes, 56 seconds
+
+  > BERT Model Loss: 5.64%
+  > BERT Model Precision: 63.29%
+  > BERT Model Recall: 97.26%
+  > BERT Model Accuracy: 97.88%
+
+Total Training Time: 1 day, 20 hours, 4 minutes, 10 seconds
+
+  > BERT Model Loss: 4.93%
+  > BERT Model Precision: 66.35%
+  > BERT Model Recall: 96.92%
+  > BERT Model Accuracy: 98.10%
+
+Total Training Time: 1 day, 20 hours, 12 minutes, 24 seconds
+
+  > BERT Model Loss: 5.20%
+  > BERT Model Precision: 65.59%
+  > BERT Model Recall: 97.85%
+  > BERT Model Accuracy: 98.02%
+
+Total Training Time: 1 day, 20 hours, 20 minutes, 38 seconds
+
+  > BERT Model Loss: 4.71%
+  > BERT Model Precision: 67.23%
+  > BERT Model Recall: 96.75%
+  > BERT Model Accuracy: 98.18%
+
+Total Training Time: 1 day, 20 hours, 28 minutes, 52 seconds
+
+  > BERT Model Loss: 5.11%
+  > BERT Model Precision: 66.16%
+  > BERT Model Recall: 97.62%
+  > BERT Model Accuracy: 98.07%
+
+Total Training Time: 1 day, 20 hours, 37 minutes, 6 seconds
+
+  > BERT Model Loss: 5.17%
+  > BERT Model Precision: 65.66%
+  > BERT Model Recall: 97.47%
+  > BERT Model Accuracy: 97.97%
+
+Total Training Time: 1 day, 20 hours, 45 minutes, 20 seconds
+
+  > BERT Model Loss: 6.07%
+  > BERT Model Precision: 62.45%
+  > BERT Model Recall: 97.66%
+  > BERT Model Accuracy: 97.68%
+
+Total Training Time: 1 day, 20 hours, 53 minutes, 33 seconds
+
+  > BERT Model Loss: 5.89%
+  > BERT Model Precision: 61.55%
+  > BERT Model Recall: 97.50%
+  > BERT Model Accuracy: 97.77%
+
+Total Training Time: 1 day, 21 hours, 1 minute, 47 seconds
+
+  > BERT Model Loss: 5.69%
+  > BERT Model Precision: 63.00%
+  > BERT Model Recall: 97.82%
+  > BERT Model Accuracy: 97.74%
+
+Total Training Time: 1 day, 21 hours, 10 minutes
+
+  > BERT Model Loss: 4.69%
+  > BERT Model Precision: 65.80%
+  > BERT Model Recall: 97.27%
+  > BERT Model Accuracy: 98.02%
+
+Total Training Time: 1 day, 21 hours, 18 minutes, 14 seconds
+
+  > BERT Model Loss: 4.98%
+  > BERT Model Precision: 67.36%
+  > BERT Model Recall: 97.76%
+  > BERT Model Accuracy: 98.19%
+
+Total Training Time: 1 day, 21 hours, 26 minutes, 28 seconds
+
+  > BERT Model Loss: 4.65%
+  > BERT Model Precision: 67.60%
+  > BERT Model Recall: 97.36%
+  > BERT Model Accuracy: 98.18%
+
+Total Training Time: 1 day, 21 hours, 34 minutes, 42 seconds
+
+  > BERT Model Loss: 4.56%
+  > BERT Model Precision: 69.09%
+  > BERT Model Recall: 97.03%
+  > BERT Model Accuracy: 98.29%
+
+Total Training Time: 1 day, 21 hours, 42 minutes, 56 seconds
+
+  > BERT Model Loss: 5.63%
+  > BERT Model Precision: 64.62%
+  > BERT Model Recall: 97.49%
+  > BERT Model Accuracy: 98.02%
+
+Total Training Time: 1 day, 21 hours, 51 minutes, 10 seconds
+
+  > BERT Model Loss: 4.89%
+  > BERT Model Precision: 65.23%
+  > BERT Model Recall: 97.18%
+  > BERT Model Accuracy: 98.01%
+
+Total Training Time: 1 day, 21 hours, 59 minutes, 24 seconds
+
+  > BERT Model Loss: 5.07%
+  > BERT Model Precision: 66.23%
+  > BERT Model Recall: 98.00%
+  > BERT Model Accuracy: 98.07%
+
+Total Training Time: 1 day, 22 hours, 7 minutes, 38 seconds
+
+  > BERT Model Loss: 5.65%
+  > BERT Model Precision: 62.14%
+  > BERT Model Recall: 98.32%
+  > BERT Model Accuracy: 97.67%
+
+Total Training Time: 1 day, 22 hours, 15 minutes, 52 seconds
+
+  > BERT Model Loss: 4.63%
+  > BERT Model Precision: 68.32%
+  > BERT Model Recall: 98.22%
+  > BERT Model Accuracy: 98.25%
+
+Total Training Time: 1 day, 22 hours, 24 minutes, 5 seconds
+
+  > BERT Model Loss: 5.62%
+  > BERT Model Precision: 62.06%
+  > BERT Model Recall: 98.12%
+  > BERT Model Accuracy: 97.77%
+
+Total Training Time: 1 day, 22 hours, 32 minutes, 18 seconds
+
+  > BERT Model Loss: 5.19%
+  > BERT Model Precision: 63.97%
+  > BERT Model Recall: 97.61%
+  > BERT Model Accuracy: 97.92%
+
+Total Training Time: 1 day, 22 hours, 40 minutes, 32 seconds
+
+  > BERT Model Loss: 5.50%
+  > BERT Model Precision: 63.65%
+  > BERT Model Recall: 97.97%
+  > BERT Model Accuracy: 97.85%
+
+Total Training Time: 1 day, 22 hours, 48 minutes, 45 seconds
+
+  > BERT Model Loss: 5.47%
+  > BERT Model Precision: 63.67%
+  > BERT Model Recall: 98.09%
+  > BERT Model Accuracy: 97.88%
+
+Total Training Time: 1 day, 22 hours, 56 minutes, 58 seconds
+
+  > BERT Model Loss: 5.55%
+  > BERT Model Precision: 62.26%
+  > BERT Model Recall: 97.86%
+  > BERT Model Accuracy: 97.75%
+
+Total Training Time: 1 day, 23 hours, 5 minutes, 11 seconds
+
+  > BERT Model Loss: 5.67%
+  > BERT Model Precision: 64.04%
+  > BERT Model Recall: 97.82%
+  > BERT Model Accuracy: 97.86%
+
+Total Training Time: 1 day, 23 hours, 13 minutes, 24 seconds
+
+  > BERT Model Loss: 5.37%
+  > BERT Model Precision: 64.50%
+  > BERT Model Recall: 97.83%
+  > BERT Model Accuracy: 97.95%
+
+Total Training Time: 1 day, 23 hours, 21 minutes, 39 seconds
+
+  > BERT Model Loss: 4.23%
+  > BERT Model Precision: 68.30%
+  > BERT Model Recall: 97.43%
+  > BERT Model Accuracy: 98.27%
+
+Total Training Time: 1 day, 23 hours, 29 minutes, 53 seconds
+
+  > BERT Model Loss: 4.88%
+  > BERT Model Precision: 65.76%
+  > BERT Model Recall: 98.05%
+  > BERT Model Accuracy: 98.09%
+
+Total Training Time: 1 day, 23 hours, 38 minutes, 7 seconds
+
+  > BERT Model Loss: 4.87%
+  > BERT Model Precision: 64.67%
+  > BERT Model Recall: 97.22%
+  > BERT Model Accuracy: 98.04%
+
+Total Training Time: 1 day, 23 hours, 46 minutes, 21 seconds
+
+  > BERT Model Loss: 4.31%
+  > BERT Model Precision: 68.46%
+  > BERT Model Recall: 97.48%
+  > BERT Model Accuracy: 98.27%
+
+Total Training Time: 1 day, 23 hours, 54 minutes, 35 seconds
+
+  > BERT Model Loss: 4.34%
+  > BERT Model Precision: 67.97%
+  > BERT Model Recall: 98.32%
+  > BERT Model Accuracy: 98.32%
+
+Total Training Time: 2 days, 2 minutes, 49 seconds
+
+  > BERT Model Loss: 5.87%
+  > BERT Model Precision: 61.72%
+  > BERT Model Recall: 98.14%
+  > BERT Model Accuracy: 97.70%
+
+Total Training Time: 2 days, 11 minutes, 3 seconds
+
+  > BERT Model Loss: 5.18%
+  > BERT Model Precision: 64.92%
+  > BERT Model Recall: 98.10%
+  > BERT Model Accuracy: 97.98%
+
+Total Training Time: 2 days, 19 minutes, 17 seconds
+
+  > BERT Model Loss: 3.88%
+  > BERT Model Precision: 70.61%
+  > BERT Model Recall: 97.77%
+  > BERT Model Accuracy: 98.47%
+
+Total Training Time: 2 days, 27 minutes, 31 seconds
+
+  > BERT Model Loss: 5.22%
+  > BERT Model Precision: 64.76%
+  > BERT Model Recall: 98.72%
+  > BERT Model Accuracy: 97.93%
+
+Total Training Time: 2 days, 35 minutes, 44 seconds
+
+  > BERT Model Loss: 4.27%
+  > BERT Model Precision: 68.81%
+  > BERT Model Recall: 98.02%
+  > BERT Model Accuracy: 98.31%
+
+Total Training Time: 2 days, 43 minutes, 57 seconds
+
+  > BERT Model Loss: 4.71%
+  > BERT Model Precision: 67.35%
+  > BERT Model Recall: 98.36%
+  > BERT Model Accuracy: 98.11%
+
+Total Training Time: 2 days, 52 minutes, 11 seconds
+
+  > BERT Model Loss: 4.80%
+  > BERT Model Precision: 67.64%
+  > BERT Model Recall: 98.13%
+  > BERT Model Accuracy: 98.20%
+
+Total Training Time: 2 days, 1 hour, 25 seconds
+
+  > BERT Model Loss: 4.45%
+  > BERT Model Precision: 68.68%
+  > BERT Model Recall: 97.99%
+  > BERT Model Accuracy: 98.30%
+
+Total Training Time: 2 days, 1 hour, 8 minutes, 39 seconds
+
+  > BERT Model Loss: 4.54%
+  > BERT Model Precision: 68.66%
+  > BERT Model Recall: 97.87%
+  > BERT Model Accuracy: 98.23%
+
+Total Training Time: 2 days, 1 hour, 16 minutes, 53 seconds
+
+  > BERT Model Loss: 6.19%
+  > BERT Model Precision: 61.94%
+  > BERT Model Recall: 98.87%
+  > BERT Model Accuracy: 97.71%
+
+Total Training Time: 2 days, 1 hour, 25 minutes, 7 seconds
+
+  > BERT Model Loss: 4.54%
+  > BERT Model Precision: 67.73%
+  > BERT Model Recall: 98.22%
+  > BERT Model Accuracy: 98.20%
+
+Total Training Time: 2 days, 1 hour, 33 minutes, 14 seconds
+
+  > BERT Model Loss: 5.25%
+  > BERT Model Precision: 64.10%
+  > BERT Model Recall: 98.41%
+  > BERT Model Accuracy: 97.91%
+
+Total Training Time: 2 days, 1 hour, 41 minutes, 25 seconds
+
+  > BERT Model Loss: 5.10%
+  > BERT Model Precision: 65.63%
+  > BERT Model Recall: 98.11%
+  > BERT Model Accuracy: 98.11%
+
+Total Training Time: 2 days, 1 hour, 49 minutes, 36 seconds
+
+  > BERT Model Loss: 4.72%
+  > BERT Model Precision: 67.40%
+  > BERT Model Recall: 97.96%
+  > BERT Model Accuracy: 98.17%
+
+Total Training Time: 2 days, 1 hour, 57 minutes, 47 seconds
+
+  > BERT Model Loss: 4.26%
+  > BERT Model Precision: 68.99%
+  > BERT Model Recall: 97.65%
+  > BERT Model Accuracy: 98.32%
+
+Total Training Time: 2 days, 2 hours, 5 minutes, 58 seconds
+
+  > BERT Model Loss: 4.65%
+  > BERT Model Precision: 67.26%
+  > BERT Model Recall: 98.44%
+  > BERT Model Accuracy: 98.14%
+
+Total Training Time: 2 days, 2 hours, 14 minutes, 8 seconds
+
+  > BERT Model Loss: 4.46%
+  > BERT Model Precision: 67.95%
+  > BERT Model Recall: 97.88%
+  > BERT Model Accuracy: 98.26%
+
+Total Training Time: 2 days, 2 hours, 22 minutes, 19 seconds
+
+  > BERT Model Loss: 4.25%
+  > BERT Model Precision: 69.72%
+  > BERT Model Recall: 98.11%
+  > BERT Model Accuracy: 98.35%
+
+Total Training Time: 2 days, 2 hours, 30 minutes, 30 seconds
+
+  > BERT Model Loss: 4.41%
+  > BERT Model Precision: 69.07%
+  > BERT Model Recall: 98.35%
+  > BERT Model Accuracy: 98.32%
+
+Total Training Time: 2 days, 2 hours, 38 minutes, 40 seconds
+
+  > BERT Model Loss: 4.71%
+  > BERT Model Precision: 66.28%
+  > BERT Model Recall: 97.43%
+  > BERT Model Accuracy: 98.14%
+
+Total Training Time: 2 days, 2 hours, 46 minutes, 51 seconds
+
+  > BERT Model Loss: 5.22%
+  > BERT Model Precision: 66.48%
+  > BERT Model Recall: 98.49%
+  > BERT Model Accuracy: 98.08%
+
+Total Training Time: 2 days, 2 hours, 55 minutes, 2 seconds
+
+  > BERT Model Loss: 4.20%
+  > BERT Model Precision: 69.40%
+  > BERT Model Recall: 98.63%
+  > BERT Model Accuracy: 98.36%
+
+Total Training Time: 2 days, 3 hours, 3 minutes, 13 seconds
+
+  > BERT Model Loss: 4.60%
+  > BERT Model Precision: 67.55%
+  > BERT Model Recall: 98.54%
+  > BERT Model Accuracy: 98.22%
+
+Total Training Time: 2 days, 3 hours, 11 minutes, 24 seconds
+
+  > BERT Model Loss: 4.36%
+  > BERT Model Precision: 69.38%
+  > BERT Model Recall: 98.42%
+  > BERT Model Accuracy: 98.30%
+
+Total Training Time: 2 days, 3 hours, 19 minutes, 36 seconds
+
+  > BERT Model Loss: 4.23%
+  > BERT Model Precision: 69.21%
+  > BERT Model Recall: 97.59%
+  > BERT Model Accuracy: 98.37%
+
+Total Training Time: 2 days, 3 hours, 27 minutes, 47 seconds
+
+  > BERT Model Loss: 3.84%
+  > BERT Model Precision: 70.22%
+  > BERT Model Recall: 97.90%
+  > BERT Model Accuracy: 98.48%
+
+Total Training Time: 2 days, 3 hours, 35 minutes, 58 seconds
+
+  > BERT Model Loss: 4.80%
+  > BERT Model Precision: 67.89%
+  > BERT Model Recall: 98.90%
+  > BERT Model Accuracy: 98.23%
+
+Total Training Time: 2 days, 3 hours, 44 minutes, 9 seconds
+
+  > BERT Model Loss: 3.65%
+  > BERT Model Precision: 72.57%
+  > BERT Model Recall: 97.94%
+  > BERT Model Accuracy: 98.59%
+
+Total Training Time: 2 days, 3 hours, 52 minutes, 19 seconds
+
+  > BERT Model Loss: 4.20%
+  > BERT Model Precision: 69.72%
+  > BERT Model Recall: 98.06%
+  > BERT Model Accuracy: 98.37%
+
+Total Training Time: 2 days, 4 hours, 29 seconds
+
+  > BERT Model Loss: 3.73%
+  > BERT Model Precision: 72.49%
+  > BERT Model Recall: 98.32%
+  > BERT Model Accuracy: 98.59%
+
+Total Training Time: 2 days, 4 hours, 8 minutes, 39 seconds
+
+  > BERT Model Loss: 3.60%
+  > BERT Model Precision: 72.56%
+  > BERT Model Recall: 98.07%
+  > BERT Model Accuracy: 98.59%
+
+Total Training Time: 2 days, 4 hours, 16 minutes, 51 seconds
+
+  > BERT Model Loss: 3.97%
+  > BERT Model Precision: 70.10%
+  > BERT Model Recall: 98.05%
+  > BERT Model Accuracy: 98.45%
+
+Total Training Time: 2 days, 4 hours, 25 minutes, 2 seconds
+
+  > BERT Model Loss: 3.36%
+  > BERT Model Precision: 74.14%
+  > BERT Model Recall: 98.36%
+  > BERT Model Accuracy: 98.69%
+
+Total Training Time: 2 days, 4 hours, 33 minutes, 13 seconds
+
+  > BERT Model Loss: 3.80%
+  > BERT Model Precision: 70.85%
+  > BERT Model Recall: 98.46%
+  > BERT Model Accuracy: 98.43%
+
+Total Training Time: 2 days, 4 hours, 41 minutes, 24 seconds
+
+  > BERT Model Loss: 4.40%
+  > BERT Model Precision: 67.66%
+  > BERT Model Recall: 98.36%
+  > BERT Model Accuracy: 98.30%
+
+Total Training Time: 2 days, 4 hours, 49 minutes, 34 seconds
+
+  > BERT Model Loss: 3.76%
+  > BERT Model Precision: 70.98%
+  > BERT Model Recall: 98.53%
+  > BERT Model Accuracy: 98.49%
+
+Total Training Time: 2 days, 4 hours, 57 minutes, 44 seconds
+
+  > BERT Model Loss: 4.06%
+  > BERT Model Precision: 70.97%
+  > BERT Model Recall: 98.27%
+  > BERT Model Accuracy: 98.43%
+
+Total Training Time: 2 days, 5 hours, 5 minutes, 55 seconds
+
+  > BERT Model Loss: 3.11%
+  > BERT Model Precision: 74.43%
+  > BERT Model Recall: 97.95%
+  > BERT Model Accuracy: 98.73%
+
+Total Training Time: 2 days, 5 hours, 14 minutes, 6 seconds
+
+  > BERT Model Loss: 3.81%
+  > BERT Model Precision: 71.25%
+  > BERT Model Recall: 98.99%
+  > BERT Model Accuracy: 98.52%
+
+Total Training Time: 2 days, 5 hours, 22 minutes, 17 seconds
+
+  > BERT Model Loss: 3.98%
+  > BERT Model Precision: 71.58%
+  > BERT Model Recall: 98.67%
+  > BERT Model Accuracy: 98.48%
+
+Total Training Time: 2 days, 5 hours, 30 minutes, 28 seconds
+
+  > BERT Model Loss: 4.06%
+  > BERT Model Precision: 70.93%
+  > BERT Model Recall: 98.23%
+  > BERT Model Accuracy: 98.44%
+
+Total Training Time: 2 days, 5 hours, 38 minutes, 39 seconds
+
+  > BERT Model Loss: 4.38%
+  > BERT Model Precision: 69.89%
+  > BERT Model Recall: 98.96%
+  > BERT Model Accuracy: 98.37%
+
+Total Training Time: 2 days, 5 hours, 46 minutes, 50 seconds
+
+  > BERT Model Loss: 4.26%
+  > BERT Model Precision: 70.02%
+  > BERT Model Recall: 98.65%
+  > BERT Model Accuracy: 98.38%
+
+Total Training Time: 2 days, 5 hours, 55 minutes, 1 second
+
+  > BERT Model Loss: 4.08%
+  > BERT Model Precision: 70.39%
+  > BERT Model Recall: 98.51%
+  > BERT Model Accuracy: 98.40%
+
+Total Training Time: 2 days, 6 hours, 3 minutes, 12 seconds
+
+  > BERT Model Loss: 4.09%
+  > BERT Model Precision: 71.63%
+  > BERT Model Recall: 98.63%
+  > BERT Model Accuracy: 98.49%
+
+Total Training Time: 2 days, 6 hours, 11 minutes, 23 seconds
+
+  > BERT Model Loss: 4.21%
+  > BERT Model Precision: 69.68%
+  > BERT Model Recall: 98.77%
+  > BERT Model Accuracy: 98.39%
+
+Total Training Time: 2 days, 6 hours, 19 minutes, 34 seconds
+
+  > BERT Model Loss: 3.69%
+  > BERT Model Precision: 71.88%
+  > BERT Model Recall: 98.57%
+  > BERT Model Accuracy: 98.54%
+
+Total Training Time: 2 days, 6 hours, 27 minutes, 45 seconds
+
+  > BERT Model Loss: 3.14%
+  > BERT Model Precision: 74.12%
+  > BERT Model Recall: 98.09%
+  > BERT Model Accuracy: 98.71%
+
+Total Training Time: 2 days, 6 hours, 35 minutes, 57 seconds
+
+  > BERT Model Loss: 3.50%
+  > BERT Model Precision: 73.02%
+  > BERT Model Recall: 98.45%
+  > BERT Model Accuracy: 98.57%
+
+Total Training Time: 2 days, 6 hours, 44 minutes, 9 seconds
+
+  > BERT Model Loss: 3.82%
+  > BERT Model Precision: 72.52%
+  > BERT Model Recall: 98.83%
+  > BERT Model Accuracy: 98.55%
+
+Total Training Time: 2 days, 6 hours, 52 minutes, 21 seconds
+
+  > BERT Model Loss: 3.74%
+  > BERT Model Precision: 72.19%
+  > BERT Model Recall: 98.66%
+  > BERT Model Accuracy: 98.56%
+
+Total Training Time: 2 days, 7 hours, 32 seconds
+
+  > BERT Model Loss: 4.00%
+  > BERT Model Precision: 70.54%
+  > BERT Model Recall: 98.40%
+  > BERT Model Accuracy: 98.47%
+
+Total Training Time: 2 days, 7 hours, 8 minutes, 42 seconds
+
+  > BERT Model Loss: 3.27%
+  > BERT Model Precision: 75.43%
+  > BERT Model Recall: 98.26%
+  > BERT Model Accuracy: 98.73%
+
+Total Training Time: 2 days, 7 hours, 16 minutes, 53 seconds
+
+  > BERT Model Loss: 3.69%
+  > BERT Model Precision: 72.31%
+  > BERT Model Recall: 98.89%
+  > BERT Model Accuracy: 98.50%
+
+Total Training Time: 2 days, 7 hours, 25 minutes, 4 seconds
+
+  > BERT Model Loss: 3.37%
+  > BERT Model Precision: 74.66%
+  > BERT Model Recall: 98.97%
+  > BERT Model Accuracy: 98.70%
+
+Total Training Time: 2 days, 7 hours, 33 minutes, 16 seconds
+
+  > BERT Model Loss: 4.11%
+  > BERT Model Precision: 71.84%
+  > BERT Model Recall: 98.66%
+  > BERT Model Accuracy: 98.54%
+
+Total Training Time: 2 days, 7 hours, 41 minutes, 27 seconds
+
+  > BERT Model Loss: 3.93%
+  > BERT Model Precision: 70.68%
+  > BERT Model Recall: 98.26%
+  > BERT Model Accuracy: 98.49%
+
+Total Training Time: 2 days, 7 hours, 49 minutes, 39 seconds
+
+  > BERT Model Loss: 3.18%
+  > BERT Model Precision: 74.01%
+  > BERT Model Recall: 98.62%
+  > BERT Model Accuracy: 98.75%
+
+Total Training Time: 2 days, 7 hours, 57 minutes, 31 seconds
+
+  > BERT Model Loss: 4.01%
+  > BERT Model Precision: 70.49%
+  > BERT Model Recall: 99.12%
+  > BERT Model Accuracy: 98.43%
+
+Total Training Time: 2 days, 8 hours, 5 minutes, 43 seconds
+
+  > BERT Model Loss: 3.41%
+  > BERT Model Precision: 74.34%
+  > BERT Model Recall: 98.15%
+  > BERT Model Accuracy: 98.67%
+
+Total Training Time: 2 days, 8 hours, 13 minutes, 54 seconds
+
+  > BERT Model Loss: 3.37%
+  > BERT Model Precision: 74.15%
+  > BERT Model Recall: 98.33%
+  > BERT Model Accuracy: 98.67%

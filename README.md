@@ -14,4 +14,6 @@
 - Create a virtual environment
 - Install setuptools and wheel
 - Install requirements.txt
-- Run the program
+- Download glove
+- Run create_custom_glove.py
+- Run main.py
