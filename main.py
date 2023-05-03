@@ -258,6 +258,7 @@ def save_plot():
         if not os.path.exists(plot_path): break
         else: counter += 1
     plt.savefig(plot_path, dpi=1200)
+    plt.close()
 
 if __name__ == '__main__':
 
