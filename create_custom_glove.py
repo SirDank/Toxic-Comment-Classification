@@ -12,16 +12,17 @@ comments = pd.read_csv('train.csv')['comment_text'].values
 words = {}
 for comment in comments:
     for split in comment.split(" "):
-        if not split in words.keys():
-            words[split] = ''
+        if split in words:
+            words[split] += 1
+        else:
+            words[split] = 1
 del comments
 
-words = sorted(set(list(words.keys())))
+words = sorted(words, key=words.get, reverse=True)
 
-open("words.txt", "w+", encoding="utf8").write("\n".join(words))
-words = open("words.txt", "r", encoding="utf8").read().split("\n")
-words = sorted(set(words))
-open("words.txt", "w+", encoding="utf8").write("\n".join(words))
+with open("words.txt", "w+", encoding="utf8") as f:
+    for word in words:
+        f.write(word + '\n')
 
 print(clr(f"\n  > Total words: {len(words)}"))
 del words
